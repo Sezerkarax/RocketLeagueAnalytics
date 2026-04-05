@@ -671,13 +671,29 @@ if loaded:
                         color:#4a6fa5;letter-spacing:3px;margin-bottom:10px;'>NAVIGATION</div>""",
                     unsafe_allow_html=True)
 
-        # --- ΝΕΟ ΜΕΝΟΥ ΜΕ ΚΑΤΗΓΟΡΙΕΣ ---
-        menu_options = [
-            "── GLOBAL ANALYTICS ──",
+        st.markdown("<hr>", unsafe_allow_html=True)
+
+        # --- CATEGORY 1 ---
+        st.markdown("""<div style='font-family:Share Tech Mono,monospace;font-size:0.7rem;
+                                color:#00f5ff;letter-spacing:3px;margin-bottom:-10px;font-weight:bold;'>
+                                📡 GLOBAL ANALYTICS</div>""", unsafe_allow_html=True)
+
+        # Radio 1
+        page_global = st.radio("Global", [
             "📖 Rocket League",
             "🗺️ Season Rank Explorer",
-            "🤖 AI: Next Season Forecast",
-            "── RLCS 2021-2022 ──",
+            "🤖 AI: Next Season Forecast"
+        ], label_visibility="collapsed", key="global_nav")
+
+        st.markdown("<br>", unsafe_allow_html=True)
+
+        # --- CATEGORY 2 ---
+        st.markdown("""<div style='font-family:Share Tech Mono,monospace;font-size:0.7rem;
+                                color:#ff6b00;letter-spacing:3px;margin-bottom:-10px;font-weight:bold;'>
+                                🏆 RLCS 2021-2022</div>""", unsafe_allow_html=True)
+
+        # Radio 2
+        page_rlcs = st.radio("RLCS", [
             "🏆 Leaderboards",
             "⚔️ Head-to-Head",
             "🔮 Next Game Forecast",
@@ -685,14 +701,26 @@ if loaded:
             "🚀 Mechanics & Demos",
             "📊 Demos vs Goals",
             "🧠 AI Playstyles"
+        ], label_visibility="collapsed", key="rlcs_nav")
+
+        # --- LOGIC ΓΙΑ ΤΟ ΠΟΙΑ ΣΕΛΙΔΑ ΕΙΝΑΙ ΕΝΕΡΓΗ ---
+        # Επειδή έχουμε δύο radio, πρέπει να αποφασίσουμε ποιο "νικάει".
+        # Ο πιο απλός τρόπος:
+        if st.sidebar.button("Reset Navigation"):
+            st.rerun()
+
+        # Εδώ επιλέγουμε τη σελίδα.
+        # Προσοχή: Θα πρέπει να αλλάξεις τα if page == "..." σε κάτι που να ελέγχει και τα δύο.
+        # Μια καλή λύση είναι να τα ενώσεις:
+        all_pages = [
+            "📖 Rocket League", "🗺️ Season Rank Explorer", "🤖 AI: Next Season Forecast",
+            "🏆 Leaderboards", "⚔️ Head-to-Head", "🔮 Next Game Forecast",
+            "📈 Season Rank Projection", "🚀 Mechanics & Demos", "📊 Demos vs Goals", "🧠 AI Playstyles"
         ]
 
-        page = st.radio("SELECT", menu_options, label_visibility="collapsed")
-
-        # Αν ο χρήστης πατήσει κατά λάθος το "Header", τον στέλνουμε στην πρώτη σελίδα
-        if "──" in page:
-            st.info("Παρακαλώ επιλέξτε μια υποκατηγορία από το μενού.")
-            st.stop()
+        # Εδώ ορίζουμε την τελική σελίδα (page)
+        # Αν ο χρήστης αλλάξει κάτι στο RLCS μενού, το page παίρνει αυτή την τιμή.
+        page = page_global if page_global else page_rlcs
 
         st.markdown("<br>", unsafe_allow_html=True)
         st.markdown("""<div style='font-family:Share Tech Mono,monospace;font-size:0.55rem;
