@@ -6,3 +6,4 @@ scikit-learn
 requests
 lxml
 beautifulsoup4
+statsmodels
