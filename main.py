@@ -671,18 +671,28 @@ if loaded:
                         color:#4a6fa5;letter-spacing:3px;margin-bottom:10px;'>NAVIGATION</div>""",
                     unsafe_allow_html=True)
 
-        page = st.radio("", [
+        # --- ΝΕΟ ΜΕΝΟΥ ΜΕ ΚΑΤΗΓΟΡΙΕΣ ---
+        menu_options = [
+            "── GLOBAL ANALYTICS ──",
             "📖 Rocket League",
             "🗺️ Season Rank Explorer",
             "🤖 AI: Next Season Forecast",
+            "── RLCS 2021-2022 ──",
             "🏆 Leaderboards",
             "⚔️ Head-to-Head",
             "🔮 Next Game Forecast",
             "📈 Season Rank Projection",
             "🚀 Mechanics & Demos",
             "📊 Demos vs Goals",
-            "🧠 AI Playstyles",
-        ], label_visibility="collapsed")
+            "🧠 AI Playstyles"
+        ]
+
+        page = st.radio("SELECT", menu_options, label_visibility="collapsed")
+
+        # Αν ο χρήστης πατήσει κατά λάθος το "Header", τον στέλνουμε στην πρώτη σελίδα
+        if "──" in page:
+            st.info("Παρακαλώ επιλέξτε μια υποκατηγορία από το μενού.")
+            st.stop()
 
         st.markdown("<br>", unsafe_allow_html=True)
         st.markdown("""<div style='font-family:Share Tech Mono,monospace;font-size:0.55rem;
