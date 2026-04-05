@@ -10,20 +10,6 @@ import sqlite3
 
 
 
-# 1. Σύνδεση (θα δημιουργήσει το αρχείο rocket_league.db)
-conn = sqlite3.connect('data/rocket_league.db')
-
-# 2. Φόρτωση των CSV
-seasonal_df = pd.read_csv('data/seasonal_master.csv')
-rlcs_df = pd.read_csv('data/rlcs/games_by_players.csv')
-
-# 3. Αποθήκευση στη βάση ως πίνακες (Tables)
-seasonal_df.to_sql('seasonal_stats', conn, if_exists='replace', index=False)
-rlcs_df.to_sql('rlcs_stats', conn, if_exists='replace', index=False)
-
-conn.close()
-
-
 
 # ============================================================
 # GLOBAL STYLES & CONFIG
