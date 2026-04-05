@@ -671,28 +671,40 @@ if loaded:
                         color:#4a6fa5;letter-spacing:3px;margin-bottom:10px;'>NAVIGATION</div>""",
                     unsafe_allow_html=True)
 
+        # --- LOGIC ΓΙΑ ΤΟ NAVIGATION ---
+        if 'main_page' not in st.session_state:
+            st.session_state.main_page = "📖 Rocket League"
+
+
+        # Συναρτήσεις που τρέχουν όταν αλλάζεις radio
+        def update_global():
+            st.session_state.main_page = st.session_state.global_nav
+
+
+        def update_rlcs():
+            st.session_state.main_page = st.session_state.rlcs_nav
+
+
         st.markdown("<hr>", unsafe_allow_html=True)
 
         # --- CATEGORY 1 ---
         st.markdown("""<div style='font-family:Share Tech Mono,monospace;font-size:0.7rem;
-                                color:#00f5ff;letter-spacing:3px;margin-bottom:-10px;font-weight:bold;'>
-                                📡 GLOBAL ANALYTICS</div>""", unsafe_allow_html=True)
+                        color:#00f5ff;letter-spacing:3px;margin-bottom:-10px;font-weight:bold;'>
+                        📡 GLOBAL ANALYTICS</div>""", unsafe_allow_html=True)
 
-        # Radio 1
         page_global = st.radio("Global", [
             "📖 Rocket League",
             "🗺️ Season Rank Explorer",
             "🤖 AI: Next Season Forecast"
-        ], label_visibility="collapsed", key="global_nav")
+        ], label_visibility="collapsed", key="global_nav", on_change=update_global)
 
         st.markdown("<br>", unsafe_allow_html=True)
 
         # --- CATEGORY 2 ---
         st.markdown("""<div style='font-family:Share Tech Mono,monospace;font-size:0.7rem;
-                                color:#ff6b00;letter-spacing:3px;margin-bottom:-10px;font-weight:bold;'>
-                                🏆 RLCS 2021-2022</div>""", unsafe_allow_html=True)
+                        color:#ff6b00;letter-spacing:3px;margin-bottom:-10px;font-weight:bold;'>
+                        🏆 RLCS 2021-2022</div>""", unsafe_allow_html=True)
 
-        # Radio 2
         page_rlcs = st.radio("RLCS", [
             "🏆 Leaderboards",
             "⚔️ Head-to-Head",
@@ -701,26 +713,10 @@ if loaded:
             "🚀 Mechanics & Demos",
             "📊 Demos vs Goals",
             "🧠 AI Playstyles"
-        ], label_visibility="collapsed", key="rlcs_nav")
+        ], label_visibility="collapsed", key="rlcs_nav", on_change=update_rlcs)
 
-        # --- LOGIC ΓΙΑ ΤΟ ΠΟΙΑ ΣΕΛΙΔΑ ΕΙΝΑΙ ΕΝΕΡΓΗ ---
-        # Επειδή έχουμε δύο radio, πρέπει να αποφασίσουμε ποιο "νικάει".
-        # Ο πιο απλός τρόπος:
-        if st.sidebar.button("Reset Navigation"):
-            st.rerun()
-
-        # Εδώ επιλέγουμε τη σελίδα.
-        # Προσοχή: Θα πρέπει να αλλάξεις τα if page == "..." σε κάτι που να ελέγχει και τα δύο.
-        # Μια καλή λύση είναι να τα ενώσεις:
-        all_pages = [
-            "📖 Rocket League", "🗺️ Season Rank Explorer", "🤖 AI: Next Season Forecast",
-            "🏆 Leaderboards", "⚔️ Head-to-Head", "🔮 Next Game Forecast",
-            "📈 Season Rank Projection", "🚀 Mechanics & Demos", "📊 Demos vs Goals", "🧠 AI Playstyles"
-        ]
-
-        # Εδώ ορίζουμε την τελική σελίδα (page)
-        # Αν ο χρήστης αλλάξει κάτι στο RLCS μενού, το page παίρνει αυτή την τιμή.
-        page = page_global if page_global else page_rlcs
+        # Η ΤΕΛΙΚΗ ΜΕΤΑΒΛΗΤΗ ΠΟΥ ΧΡΗΣΙΜΟΠΟΙΕΙ Ο ΚΩΔΙΚΑΣ ΣΟΥ
+        page = st.session_state.main_page
 
         st.markdown("<br>", unsafe_allow_html=True)
         st.markdown("""<div style='font-family:Share Tech Mono,monospace;font-size:0.55rem;
