@@ -535,43 +535,88 @@ def stat_card(title, value, sub=""):
     </div>""", unsafe_allow_html=True)
 
 
+Φυσικά! Θα
+αντικαταστήσουμε
+το
+pd.read_csv
+με
+SQL
+queries
+χρησιμοποιώντας
+τη
+βιβλιοθήκη
+sqlite3.
+
+Πλέον
+ο
+κώδικας
+δεν
+θα
+ψάχνει
+τα
+αρχεία
+CSV, αλλά
+θα
+"ρωτάει"
+τη
+βάση
+rocket_league.db
+που
+δημιούργησες.
+
+Αντικατάστησε
+όλο
+το
+block
+του
+DATA
+LOAD
+με
+αυτό:
+
+Python
+
+
 # ============================================================
-# DATA LOAD
+# DATA LOAD (SQL DRIVEN)
 # ============================================================
 @st.cache_data
 def load_real_data():
     BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+    db_path = os.path.join(BASE_DIR, 'data', 'rocket_league.db')
 
-    rlcs_path = os.path.join(BASE_DIR, 'data', 'rlcs', 'games_by_players.csv')
     try:
-        df = pd.read_csv(rlcs_path)
+        # Σύνδεση στη βάση SQL
+        conn = sqlite3.connect(db_path)
+        # Εδώ γράφουμε το πρώτο μας SQL Query!
+        df = pd.read_sql("SELECT * FROM rlcs_stats", conn)
+        conn.close()
     except Exception as e:
-        st.error(f"Σφάλμα φόρτωσης RLCS: {e}")
+        st.error(f"Σφάλμα σύνδεσης SQL (RLCS): {e}")
         df = pd.DataFrame()
 
     if not df.empty:
+        # Καθαρισμός columns (μένει ο ίδιος κώδικας logic)
         df.columns = df.columns.str.replace(r'^(core_|movement_|demo_|boost_|stats_)', '', regex=True)
         if 'player' in df.columns and 'player_tag' not in df.columns:
             df = df.rename(columns={'player': 'player_tag'})
+
         if 'score' not in df.columns or df['score'].sum() == 0:
             df['score'] = (df.get('goals', 0) * 100) + (df.get('assists', 0) * 50) + \
                           (df.get('saves', 0) * 50) + (df.get('shots', 0) * 10)
 
-        # ── Derive useful columns before groupby ──────────────────
-        # Total air time
+        # ── Derive useful columns ──────────────────
         if 'time_high_air' in df.columns and 'time_low_air' in df.columns:
             df['time_in_air'] = df['time_high_air'] + df['time_low_air']
         if 'time_in_air' in df.columns and 'duration' in df.columns:
             df['air_time_pct'] = (df['time_in_air'] / df['duration'].replace(0, np.nan)) * 100
 
-        # Supersonic proxy: time_at_boost if supersonic cols missing
         if 'time_supersonic' not in df.columns:
             if 'time_boost_speed' in df.columns:
                 df['time_supersonic'] = df['time_boost_speed']
             elif 'time_full_speed' in df.columns:
                 df['time_supersonic'] = df['time_full_speed']
 
-        # Demos: inflicted
         if 'inflicted' not in df.columns:
             for candidate in ['demo_inflicted', 'demos_inflicted', 'demos']:
                 if candidate in df.columns:
@@ -591,6 +636,7 @@ def load_real_data():
     else:
         p_stats = pd.DataFrame()
 
+    # Το UCI παραμένει CSV για την ώρα (αν δεν το έβαλες στην SQL)
     uci_path = os.path.join(BASE_DIR, 'data', 'uci', 'rocket_league_skillshots.data')
     uci_cols = ['ball_x', 'ball_y', 'ball_z', 'ball_vx', 'ball_vy', 'ball_vz',
                 'player_x', 'player_y', 'player_z', 'player_vx', 'player_vy', 'player_vz',
@@ -605,26 +651,25 @@ def load_real_data():
 
 @st.cache_data
 def load_seasonal_data():
-    """Loads the seasonal rank distribution CSV from data/seasonal_master.csv"""
+    """Loads the seasonal rank distribution from SQL database"""
     BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-    path = os.path.join(BASE_DIR, 'data', 'seasonal_master.csv')
+    db_path = os.path.join(BASE_DIR, 'data', 'rocket_league.db')
+
     try:
-        df = pd.read_csv(path)
+        conn = sqlite3.connect(db_path)
+        # SQL Query για τα seasonal stats
+        df = pd.read_sql("SELECT * FROM seasonal_stats", conn)
+        conn.close()
+
         # Normalise column names
         df.columns = df.columns.str.strip()
-        # Ensure Percentage is numeric
-        df['Percentage'] = (
-            df['Percentage'].astype(str)
-            .str.replace('%', '', regex=False)
-            .str.replace(',', '.', regex=False)
-            .str.strip()
-        )
-        df['Percentage'] = pd.to_numeric(df['Percentage'], errors='coerce')
+        # Ensure Percentage is numeric (κράτησα το logic καθαρισμού σου)
+        df['Percentage'] = pd.to_numeric(df['Percentage'].astype(str).str.replace('%', '').str.replace(',', '.'),
+                                         errors='coerce')
         df = df.dropna(subset=['Percentage'])
         df['Season'] = pd.to_numeric(df['Season'], errors='coerce').dropna().astype(int)
         df = df.dropna(subset=['Season'])
 
-        # Canonical rank order for sorting / display
         RANK_ORDER = [
             'Bronze', 'Silver', 'Gold', 'Platinum', 'Diamond',
             'Champion', 'Grand Champion', 'Grand Champion I',
@@ -637,6 +682,7 @@ def load_seasonal_data():
         df['Rank'] = pd.Categorical(df['Rank'], categories=ordered + unordered, ordered=True)
         return df
     except Exception as e:
+        st.error(f"Σφάλμα SQL (Seasonal): {e}")
         return pd.DataFrame()
 
 
