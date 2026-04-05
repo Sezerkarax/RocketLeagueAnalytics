@@ -1,0 +1,2927 @@
+Rank,Mode,Percentage,Category,Season
+Bronze 1,Solo Duel,100.0,Standard,20
+Bronze 2,Solo Duel,99.866,Standard,20
+Bronze 3,Solo Duel,99.418,Standard,20
+Silver 1,Solo Duel,98.311,Standard,20
+Silver 2,Solo Duel,95.774,Standard,20
+Silver 3,Solo Duel,91.241,Standard,20
+Gold 1,Solo Duel,83.752,Standard,20
+Gold 2,Solo Duel,72.498,Standard,20
+Gold 3,Solo Duel,58.181,Standard,20
+Platinum 1,Solo Duel,41.3,Standard,20
+Platinum 2,Solo Duel,24.681,Standard,20
+Platinum 3,Solo Duel,13.06,Standard,20
+Diamond 1,Solo Duel,6.55,Standard,20
+Diamond 2,Solo Duel,3.161,Standard,20
+Diamond 3,Solo Duel,1.547,Standard,20
+Champion 1,Solo Duel,0.751,Standard,20
+Champion 2,Solo Duel,0.359,Standard,20
+Champion 3,Solo Duel,0.175,Standard,20
+GC 1,Solo Duel,0.086,Standard,20
+GC 2,Solo Duel,0.041,Standard,20
+GC 3,Solo Duel,0.02,Standard,20
+SL,Solo Duel,0.01,Standard,20
+Bronze 1,Standard,99.998,Standard,20
+Bronze 2,Standard,99.884,Standard,20
+Bronze 3,Standard,99.562,Standard,20
+Silver 1,Standard,98.712,Standard,20
+Silver 2,Standard,96.666,Standard,20
+Silver 3,Standard,92.276,Standard,20
+Gold 1,Standard,84.285,Standard,20
+Gold 2,Standard,72.343,Standard,20
+Gold 3,Standard,58.464,Standard,20
+Platinum 1,Standard,45.225,Standard,20
+Platinum 2,Standard,33.76,Standard,20
+Platinum 3,Standard,24.939,Standard,20
+Diamond 1,Standard,18.073,Standard,20
+Diamond 2,Standard,11.293,Standard,20
+Diamond 3,Standard,6.929,Standard,20
+Champion 1,Standard,4.122,Standard,20
+Champion 2,Standard,1.736,Standard,20
+Champion 3,Standard,0.727,Standard,20
+GC 1,Standard,0.281,Standard,20
+GC 2,Standard,0.077,Standard,20
+GC 3,Standard,0.016,Standard,20
+SL,Standard,0.001,Standard,20
+Bronze 1,Doubles,100.001,Standard,20
+Bronze 2,Doubles,99.598,Standard,20
+Bronze 3,Doubles,98.723,Standard,20
+Silver 1,Doubles,97.033,Standard,20
+Silver 2,Doubles,94.067,Standard,20
+Silver 3,Doubles,89.41,Standard,20
+Gold 1,Doubles,82.852,Standard,20
+Gold 2,Doubles,74.26,Standard,20
+Gold 3,Doubles,64.453,Standard,20
+Platinum 1,Doubles,54.305,Standard,20
+Platinum 2,Doubles,44.131,Standard,20
+Platinum 3,Doubles,35.393,Standard,20
+Diamond 1,Doubles,28.122,Standard,20
+Diamond 2,Doubles,20.033,Standard,20
+Diamond 3,Doubles,14.055,Standard,20
+Champion 1,Doubles,9.629,Standard,20
+Champion 2,Doubles,4.999,Standard,20
+Champion 3,Doubles,2.587,Standard,20
+GC 1,Doubles,1.265,Standard,20
+GC 2,Doubles,0.435,Standard,20
+GC 3,Doubles,0.124,Standard,20
+SL,Doubles,0.037,Standard,20
+Bronze 1,Quads,100.002,Standard,20
+Bronze 2,Quads,99.851,Standard,20
+Bronze 3,Quads,99.49,Standard,20
+Silver 1,Quads,98.816,Standard,20
+Silver 2,Quads,97.198,Standard,20
+Silver 3,Quads,94.122,Standard,20
+Gold 1,Quads,87.45,Standard,20
+Gold 2,Quads,74.257,Standard,20
+Gold 3,Quads,63.571,Standard,20
+Platinum 1,Quads,57.542,Standard,20
+Platinum 2,Quads,45.699,Standard,20
+Platinum 3,Quads,36.553,Standard,20
+Diamond 1,Quads,21.924,Standard,20
+Diamond 2,Quads,14.312,Standard,20
+Diamond 3,Quads,9.663,Standard,20
+Champion 1,Quads,6.486,Standard,20
+Champion 2,Quads,4.331,Standard,20
+Champion 3,Quads,2.728,Standard,20
+GC 1,Quads,1.494,Standard,20
+GC 2,Quads,0.769,Standard,20
+GC 3,Quads,0.373,Standard,20
+SL,Quads,0.171,Standard,20
+Bronze 1,Rumble,100.0,Extra,20
+Bronze 2,Rumble,99.988,Extra,20
+Bronze 3,Rumble,99.922,Extra,20
+Silver 1,Rumble,99.688,Extra,20
+Silver 2,Rumble,98.931,Extra,20
+Silver 3,Rumble,96.797,Extra,20
+Gold 1,Rumble,91.755,Extra,20
+Gold 2,Rumble,81.747,Extra,20
+Gold 3,Rumble,65.821,Extra,20
+Platinum 1,Rumble,45.755,Extra,20
+Platinum 2,Rumble,28.56,Extra,20
+Platinum 3,Rumble,16.709,Extra,20
+Diamond 1,Rumble,9.568,Extra,20
+Diamond 2,Rumble,5.399,Extra,20
+Diamond 3,Rumble,3.06,Extra,20
+Champion 1,Rumble,1.747,Extra,20
+Champion 2,Rumble,0.96,Extra,20
+Champion 3,Rumble,0.535,Extra,20
+GC 1,Rumble,0.231,Extra,20
+GC 2,Rumble,0.07,Extra,20
+GC 3,Rumble,0.015,Extra,20
+SL,Rumble,0.005,Extra,20
+Bronze 1,Hoops,100.0,Extra,20
+Bronze 2,Hoops,99.993,Extra,20
+Bronze 3,Hoops,99.959,Extra,20
+Silver 1,Hoops,99.717,Extra,20
+Silver 2,Hoops,98.874,Extra,20
+Silver 3,Hoops,96.477,Extra,20
+Gold 1,Hoops,89.653,Extra,20
+Gold 2,Hoops,78.742,Extra,20
+Gold 3,Hoops,61.682,Extra,20
+Platinum 1,Hoops,43.418,Extra,20
+Platinum 2,Hoops,26.144,Extra,20
+Platinum 3,Hoops,15.762,Extra,20
+Diamond 1,Hoops,8.789,Extra,20
+Diamond 2,Hoops,4.896,Extra,20
+Diamond 3,Hoops,2.753,Extra,20
+Champion 1,Hoops,1.557,Extra,20
+Champion 2,Hoops,0.892,Extra,20
+Champion 3,Hoops,0.511,Extra,20
+GC 1,Hoops,0.235,Extra,20
+GC 2,Hoops,0.073,Extra,20
+GC 3,Hoops,0.018,Extra,20
+SL,Hoops,0.009,Extra,20
+Bronze 1,Dropshot,99.999,Extra,20
+Bronze 2,Dropshot,99.961,Extra,20
+Bronze 3,Dropshot,99.795,Extra,20
+Silver 1,Dropshot,99.257,Extra,20
+Silver 2,Dropshot,97.782,Extra,20
+Silver 3,Dropshot,95.085,Extra,20
+Gold 1,Dropshot,90.191,Extra,20
+Gold 2,Dropshot,82.05,Extra,20
+Gold 3,Dropshot,70.015,Extra,20
+Platinum 1,Dropshot,55.029,Extra,20
+Platinum 2,Dropshot,39.544,Extra,20
+Platinum 3,Dropshot,26.284,Extra,20
+Diamond 1,Dropshot,16.459,Extra,20
+Diamond 2,Dropshot,9.814,Extra,20
+Diamond 3,Dropshot,5.682,Extra,20
+Champion 1,Dropshot,3.22,Extra,20
+Champion 2,Dropshot,1.78,Extra,20
+Champion 3,Dropshot,0.988,Extra,20
+GC 1,Dropshot,0.434,Extra,20
+GC 2,Dropshot,0.099,Extra,20
+GC 3,Dropshot,0.032,Extra,20
+SL,Dropshot,0.01,Extra,20
+Bronze 1,Solo Duel,99.997,Standard,19
+Bronze 2,Solo Duel,99.936,Standard,19
+Bronze 3,Solo Duel,99.635,Standard,19
+Silver 1,Solo Duel,98.662,Standard,19
+Silver 2,Solo Duel,96.37,Standard,19
+Silver 3,Solo Duel,91.915,Standard,19
+Gold 1,Solo Duel,84.471,Standard,19
+Gold 2,Solo Duel,73.238,Standard,19
+Gold 3,Solo Duel,58.718,Standard,19
+Platinum 1,Solo Duel,42.071,Standard,19
+Platinum 2,Solo Duel,25.647,Standard,19
+Platinum 3,Solo Duel,13.814,Standard,19
+Diamond 1,Solo Duel,7.015,Standard,19
+Diamond 2,Solo Duel,3.446,Standard,19
+Diamond 3,Solo Duel,1.699,Standard,19
+Champion 1,Solo Duel,0.83,Standard,19
+Champion 2,Solo Duel,0.392,Standard,19
+Champion 3,Solo Duel,0.19,Standard,19
+GC 1,Solo Duel,0.094,Standard,19
+GC 2,Solo Duel,0.044,Standard,19
+GC 3,Solo Duel,0.022,Standard,19
+SL,Solo Duel,0.011,Standard,19
+Bronze 1,Standard,100.002,Standard,19
+Bronze 2,Standard,99.9,Standard,19
+Bronze 3,Standard,99.586,Standard,19
+Silver 1,Standard,98.712,Standard,19
+Silver 2,Standard,96.546,Standard,19
+Silver 3,Standard,91.894,Standard,19
+Gold 1,Standard,83.593,Standard,19
+Gold 2,Standard,71.49,Standard,19
+Gold 3,Standard,57.7,Standard,19
+Platinum 1,Standard,44.686,Standard,19
+Platinum 2,Standard,33.402,Standard,19
+Platinum 3,Standard,24.694,Standard,19
+Diamond 1,Standard,17.925,Standard,19
+Diamond 2,Standard,11.216,Standard,19
+Diamond 3,Standard,6.893,Standard,19
+Champion 1,Standard,4.116,Standard,19
+Champion 2,Standard,1.744,Standard,19
+Champion 3,Standard,0.736,Standard,19
+GC 1,Standard,0.291,Standard,19
+GC 2,Standard,0.082,Standard,19
+GC 3,Standard,0.018,Standard,19
+SL,Standard,0.002,Standard,19
+Bronze 1,Doubles,100.003,Standard,19
+Bronze 2,Doubles,99.69,Standard,19
+Bronze 3,Doubles,98.929,Standard,19
+Silver 1,Doubles,97.347,Standard,19
+Silver 2,Doubles,94.463,Standard,19
+Silver 3,Doubles,89.868,Standard,19
+Gold 1,Doubles,83.346,Standard,19
+Gold 2,Doubles,74.802,Standard,19
+Gold 3,Doubles,64.97,Standard,19
+Platinum 1,Doubles,54.758,Standard,19
+Platinum 2,Doubles,44.46,Standard,19
+Platinum 3,Doubles,35.579,Standard,19
+Diamond 1,Doubles,28.196,Standard,19
+Diamond 2,Doubles,20.025,Standard,19
+Diamond 3,Doubles,14.011,Standard,19
+Champion 1,Doubles,9.598,Standard,19
+Champion 2,Doubles,4.966,Standard,19
+Champion 3,Doubles,2.564,Standard,19
+GC 1,Doubles,1.266,Standard,19
+GC 2,Doubles,0.441,Standard,19
+GC 3,Doubles,0.133,Standard,19
+SL,Doubles,0.043,Standard,19
+Bronze 1,Rumble,100.001,Extra,19
+Bronze 2,Rumble,99.99,Extra,19
+Bronze 3,Rumble,99.918,Extra,19
+Silver 1,Rumble,99.657,Extra,19
+Silver 2,Rumble,98.795,Extra,19
+Silver 3,Rumble,96.445,Extra,19
+Gold 1,Rumble,91.136,Extra,19
+Gold 2,Rumble,80.788,Extra,19
+Gold 3,Rumble,65.097,Extra,19
+Platinum 1,Rumble,45.485,Extra,19
+Platinum 2,Rumble,28.554,Extra,19
+Platinum 3,Rumble,16.684,Extra,19
+Diamond 1,Rumble,9.593,Extra,19
+Diamond 2,Rumble,5.437,Extra,19
+Diamond 3,Rumble,3.07,Extra,19
+Champion 1,Rumble,1.744,Extra,19
+Champion 2,Rumble,0.952,Extra,19
+Champion 3,Rumble,0.524,Extra,19
+GC 1,Rumble,0.235,Extra,19
+GC 2,Rumble,0.075,Extra,19
+GC 3,Rumble,0.02,Extra,19
+SL,Rumble,0.008,Extra,19
+Bronze 1,Hoops,100.0,Extra,19
+Bronze 2,Hoops,99.992,Extra,19
+Bronze 3,Hoops,99.953,Extra,19
+Silver 1,Hoops,99.745,Extra,19
+Silver 2,Hoops,99.027,Extra,19
+Silver 3,Hoops,96.471,Extra,19
+Gold 1,Hoops,90.265,Extra,19
+Gold 2,Hoops,78.844,Extra,19
+Gold 3,Hoops,62.687,Extra,19
+Platinum 1,Hoops,44.277,Extra,19
+Platinum 2,Hoops,27.604,Extra,19
+Platinum 3,Hoops,16.992,Extra,19
+Diamond 1,Hoops,9.534,Extra,19
+Diamond 2,Hoops,5.374,Extra,19
+Diamond 3,Hoops,3.04,Extra,19
+Champion 1,Hoops,1.741,Extra,19
+Champion 2,Hoops,0.991,Extra,19
+Champion 3,Hoops,0.567,Extra,19
+GC 1,Hoops,0.28,Extra,19
+GC 2,Hoops,0.092,Extra,19
+GC 3,Hoops,0.029,Extra,19
+SL,Hoops,0.016,Extra,19
+Bronze 1,Snow Day,100.001,Extra,19
+Bronze 2,Snow Day,99.99,Extra,19
+Bronze 3,Snow Day,99.918,Extra,19
+Silver 1,Snow Day,99.657,Extra,19
+Silver 2,Snow Day,98.795,Extra,19
+Silver 3,Snow Day,96.445,Extra,19
+Gold 1,Snow Day,91.136,Extra,19
+Gold 2,Snow Day,80.788,Extra,19
+Gold 3,Snow Day,65.097,Extra,19
+Platinum 1,Snow Day,45.485,Extra,19
+Platinum 2,Snow Day,28.554,Extra,19
+Platinum 3,Snow Day,16.684,Extra,19
+Diamond 1,Snow Day,9.593,Extra,19
+Diamond 2,Snow Day,5.437,Extra,19
+Diamond 3,Snow Day,3.07,Extra,19
+Champion 1,Snow Day,1.744,Extra,19
+Champion 2,Snow Day,0.952,Extra,19
+Champion 3,Snow Day,0.524,Extra,19
+GC 1,Snow Day,0.235,Extra,19
+GC 2,Snow Day,0.075,Extra,19
+GC 3,Snow Day,0.02,Extra,19
+SL,Snow Day,0.008,Extra,19
+Bronze 1,Solo Duel,100.002,Standard,18
+Bronze 2,Solo Duel,99.939,Standard,18
+Bronze 3,Solo Duel,99.643,Standard,18
+Silver 1,Solo Duel,98.691,Standard,18
+Silver 2,Solo Duel,96.443,Standard,18
+Silver 3,Solo Duel,92.06,Standard,18
+Gold 1,Solo Duel,84.707,Standard,18
+Gold 2,Solo Duel,73.617,Standard,18
+Gold 3,Solo Duel,59.263,Standard,18
+Platinum 1,Solo Duel,42.907,Standard,18
+Platinum 2,Solo Duel,26.546,Standard,18
+Platinum 3,Solo Duel,14.623,Standard,18
+Diamond 1,Solo Duel,7.507,Standard,18
+Diamond 2,Solo Duel,3.679,Standard,18
+Diamond 3,Solo Duel,1.815,Standard,18
+Champion 1,Solo Duel,0.894,Standard,18
+Champion 2,Solo Duel,0.421,Standard,18
+Champion 3,Solo Duel,0.204,Standard,18
+GC 1,Solo Duel,0.101,Standard,18
+GC 2,Solo Duel,0.048,Standard,18
+GC 3,Solo Duel,0.024,Standard,18
+SL,Solo Duel,0.013,Standard,18
+Bronze 1,Standard,100.0,Standard,18
+Bronze 2,Standard,99.888,Standard,18
+Bronze 3,Standard,99.541,Standard,18
+Silver 1,Standard,98.585,Standard,18
+Silver 2,Standard,96.269,Standard,18
+Silver 3,Standard,91.387,Standard,18
+Gold 1,Standard,82.921,Standard,18
+Gold 2,Standard,70.775,Standard,18
+Gold 3,Standard,57.102,Standard,18
+Platinum 1,Standard,44.27,Standard,18
+Platinum 2,Standard,33.133,Standard,18
+Platinum 3,Standard,24.433,Standard,18
+Diamond 1,Standard,17.732,Standard,18
+Diamond 2,Standard,11.081,Standard,18
+Diamond 3,Standard,6.79,Standard,18
+Champion 1,Standard,4.048,Standard,18
+Champion 2,Standard,1.709,Standard,18
+Champion 3,Standard,0.72,Standard,18
+GC 1,Standard,0.289,Standard,18
+GC 2,Standard,0.084,Standard,18
+GC 3,Standard,0.02,Standard,18
+SL,Standard,0.003,Standard,18
+Bronze 1,Doubles,99.999,Standard,18
+Bronze 2,Doubles,99.707,Standard,18
+Bronze 3,Doubles,98.994,Standard,18
+Silver 1,Doubles,97.509,Standard,18
+Silver 2,Doubles,94.768,Standard,18
+Silver 3,Doubles,90.357,Standard,18
+Gold 1,Doubles,84.011,Standard,18
+Gold 2,Doubles,75.584,Standard,18
+Gold 3,Doubles,65.794,Standard,18
+Platinum 1,Doubles,55.557,Standard,18
+Platinum 2,Doubles,45.135,Standard,18
+Platinum 3,Doubles,36.042,Standard,18
+Diamond 1,Doubles,28.49,Standard,18
+Diamond 2,Doubles,20.126,Standard,18
+Diamond 3,Doubles,14.017,Standard,18
+Champion 1,Doubles,9.566,Standard,18
+Champion 2,Doubles,4.903,Standard,18
+Champion 3,Doubles,2.506,Standard,18
+GC 1,Doubles,1.234,Standard,18
+GC 2,Doubles,0.425,Standard,18
+GC 3,Doubles,0.132,Standard,18
+SL,Doubles,0.045,Standard,18
+Bronze 1,Rumble,99.997,Extra,18
+Bronze 2,Rumble,99.983,Extra,18
+Bronze 3,Rumble,99.903,Extra,18
+Silver 1,Rumble,99.607,Extra,18
+Silver 2,Rumble,98.646,Extra,18
+Silver 3,Rumble,96.125,Extra,18
+Gold 1,Rumble,90.575,Extra,18
+Gold 2,Rumble,80.186,Extra,18
+Gold 3,Rumble,64.471,Extra,18
+Platinum 1,Rumble,45.081,Extra,18
+Platinum 2,Rumble,28.666,Extra,18
+Platinum 3,Rumble,16.763,Extra,18
+Diamond 1,Rumble,9.592,Extra,18
+Diamond 2,Rumble,5.399,Extra,18
+Diamond 3,Rumble,3.012,Extra,18
+Champion 1,Rumble,1.682,Extra,18
+Champion 2,Rumble,0.908,Extra,18
+Champion 3,Rumble,0.485,Extra,18
+GC 1,Rumble,0.218,Extra,18
+GC 2,Rumble,0.068,Extra,18
+GC 3,Rumble,0.018,Extra,18
+SL,Rumble,0.008,Extra,18
+Bronze 1,Hoops,100.0,Extra,18
+Bronze 2,Hoops,99.991,Extra,18
+Bronze 3,Hoops,99.95,Extra,18
+Silver 1,Hoops,99.695,Extra,18
+Silver 2,Hoops,98.86,Extra,18
+Silver 3,Hoops,95.912,Extra,18
+Gold 1,Hoops,89.291,Extra,18
+Gold 2,Hoops,77.737,Extra,18
+Gold 3,Hoops,61.659,Extra,18
+Platinum 1,Hoops,43.667,Extra,18
+Platinum 2,Hoops,27.695,Extra,18
+Platinum 3,Hoops,17.179,Extra,18
+Diamond 1,Hoops,9.854,Extra,18
+Diamond 2,Hoops,5.568,Extra,18
+Diamond 3,Hoops,3.165,Extra,18
+Champion 1,Hoops,1.794,Extra,18
+Champion 2,Hoops,0.996,Extra,18
+Champion 3,Hoops,0.552,Extra,18
+GC 1,Hoops,0.273,Extra,18
+GC 2,Hoops,0.089,Extra,18
+GC 3,Hoops,0.027,Extra,18
+SL,Hoops,0.016,Extra,18
+Bronze 1,Dropshot,100.002,Extra,18
+Bronze 2,Dropshot,99.957,Extra,18
+Bronze 3,Dropshot,99.763,Extra,18
+Silver 1,Dropshot,99.152,Extra,18
+Silver 2,Dropshot,97.528,Extra,18
+Silver 3,Dropshot,94.659,Extra,18
+Gold 1,Dropshot,89.55,Extra,18
+Gold 2,Dropshot,81.25,Extra,18
+Gold 3,Dropshot,69.208,Extra,18
+Platinum 1,Dropshot,54.432,Extra,18
+Platinum 2,Dropshot,39.231,Extra,18
+Platinum 3,Dropshot,26.227,Extra,18
+Diamond 1,Dropshot,16.529,Extra,18
+Diamond 2,Dropshot,9.896,Extra,18
+Diamond 3,Dropshot,5.732,Extra,18
+Champion 1,Dropshot,3.241,Extra,18
+Champion 2,Dropshot,1.782,Extra,18
+Champion 3,Dropshot,0.979,Extra,18
+GC 1,Dropshot,0.451,Extra,18
+GC 2,Dropshot,0.116,Extra,18
+GC 3,Dropshot,0.044,Extra,18
+SL,Dropshot,0.024,Extra,18
+Bronze 1,Solo Duel,100.001,Standard,17
+Bronze 2,Solo Duel,99.957,Standard,17
+Bronze 3,Solo Duel,99.729,Standard,17
+Silver 1,Solo Duel,98.901,Standard,17
+Silver 2,Solo Duel,96.807,Standard,17
+Silver 3,Solo Duel,92.486,Standard,17
+Gold 1,Solo Duel,85.062,Standard,17
+Gold 2,Solo Duel,73.762,Standard,17
+Gold 3,Solo Duel,59.175,Standard,17
+Platinum 1,Solo Duel,42.864,Standard,17
+Platinum 2,Solo Duel,26.714,Standard,17
+Platinum 3,Solo Duel,14.771,Standard,17
+Diamond 1,Solo Duel,7.603,Standard,17
+Diamond 2,Solo Duel,3.691,Standard,17
+Diamond 3,Solo Duel,1.8,Standard,17
+Champion 1,Solo Duel,0.882,Standard,17
+Champion 2,Solo Duel,0.413,Standard,17
+Champion 3,Solo Duel,0.197,Standard,17
+GC 1,Solo Duel,0.096,Standard,17
+GC 2,Solo Duel,0.045,Standard,17
+GC 3,Solo Duel,0.022,Standard,17
+SL,Solo Duel,0.012,Standard,17
+Bronze 1,Standard,99.999,Standard,17
+Bronze 2,Standard,99.877,Standard,17
+Bronze 3,Standard,99.498,Standard,17
+Silver 1,Standard,98.437,Standard,17
+Silver 2,Standard,95.874,Standard,17
+Silver 3,Standard,90.526,Standard,17
+Gold 1,Standard,81.504,Standard,17
+Gold 2,Standard,68.933,Standard,17
+Gold 3,Standard,55.126,Standard,17
+Platinum 1,Standard,42.42,Standard,17
+Platinum 2,Standard,31.529,Standard,17
+Platinum 3,Standard,23.092,Standard,17
+Diamond 1,Standard,16.649,Standard,17
+Diamond 2,Standard,10.327,Standard,17
+Diamond 3,Standard,6.285,Standard,17
+Champion 1,Standard,3.717,Standard,17
+Champion 2,Standard,1.557,Standard,17
+Champion 3,Standard,0.652,Standard,17
+GC 1,Standard,0.262,Standard,17
+GC 2,Standard,0.075,Standard,17
+GC 3,Standard,0.019,Standard,17
+SL,Standard,0.003,Standard,17
+Bronze 1,Doubles,99.999,Standard,17
+Bronze 2,Doubles,99.768,Standard,17
+Bronze 3,Doubles,99.177,Standard,17
+Silver 1,Doubles,97.886,Standard,17
+Silver 2,Doubles,95.394,Standard,17
+Silver 3,Doubles,91.212,Standard,17
+Gold 1,Doubles,84.995,Standard,17
+Gold 2,Doubles,76.479,Standard,17
+Gold 3,Doubles,66.396,Standard,17
+Platinum 1,Doubles,55.725,Standard,17
+Platinum 2,Doubles,44.862,Standard,17
+Platinum 3,Doubles,35.418,Standard,17
+Diamond 1,Doubles,27.657,Standard,17
+Diamond 2,Doubles,19.192,Standard,17
+Diamond 3,Doubles,13.145,Standard,17
+Champion 1,Doubles,8.83,Standard,17
+Champion 2,Doubles,4.405,Standard,17
+Champion 3,Doubles,2.193,Standard,17
+GC 1,Doubles,1.058,Standard,17
+GC 2,Doubles,0.356,Standard,17
+GC 3,Doubles,0.108,Standard,17
+SL,Doubles,0.037,Standard,17
+Bronze 1,Rumble,99.999,Extra,17
+Bronze 2,Rumble,99.984,Extra,17
+Bronze 3,Rumble,99.899,Extra,17
+Silver 1,Rumble,99.572,Extra,17
+Silver 2,Rumble,98.443,Extra,17
+Silver 3,Rumble,95.596,Extra,17
+Gold 1,Rumble,89.272,Extra,17
+Gold 2,Rumble,78.27,Extra,17
+Gold 3,Rumble,62.539,Extra,17
+Platinum 1,Rumble,43.681,Extra,17
+Platinum 2,Rumble,27.93,Extra,17
+Platinum 3,Rumble,16.582,Extra,17
+Diamond 1,Rumble,9.156,Extra,17
+Diamond 2,Rumble,5.12,Extra,17
+Diamond 3,Rumble,2.802,Extra,17
+Champion 1,Rumble,1.51,Extra,17
+Champion 2,Rumble,0.801,Extra,17
+Champion 3,Rumble,0.418,Extra,17
+GC 1,Rumble,0.183,Extra,17
+GC 2,Rumble,0.058,Extra,17
+GC 3,Rumble,0.016,Extra,17
+SL,Rumble,0.007,Extra,17
+Bronze 1,Hoops,100.004,Extra,17
+Bronze 2,Hoops,99.99,Extra,17
+Bronze 3,Hoops,99.921,Extra,17
+Silver 1,Hoops,99.53,Extra,17
+Silver 2,Hoops,98.251,Extra,17
+Silver 3,Hoops,94.501,Extra,17
+Gold 1,Hoops,87.057,Extra,17
+Gold 2,Hoops,74.959,Extra,17
+Gold 3,Hoops,58.976,Extra,17
+Platinum 1,Hoops,42.19,Extra,17
+Platinum 2,Hoops,27.196,Extra,17
+Platinum 3,Hoops,17.149,Extra,17
+Diamond 1,Hoops,9.893,Extra,17
+Diamond 2,Hoops,5.717,Extra,17
+Diamond 3,Hoops,3.252,Extra,17
+Champion 1,Hoops,1.842,Extra,17
+Champion 2,Hoops,1.014,Extra,17
+Champion 3,Hoops,0.551,Extra,17
+GC 1,Hoops,0.262,Extra,17
+GC 2,Hoops,0.101,Extra,17
+GC 3,Hoops,0.03,Extra,17
+SL,Hoops,0.016,Extra,17
+Bronze 1,Snow Day,100.002,Extra,17
+Bronze 2,Snow Day,99.827,Extra,17
+Bronze 3,Snow Day,99.459,Extra,17
+Silver 1,Snow Day,98.414,Extra,17
+Silver 2,Snow Day,96.321,Extra,17
+Silver 3,Snow Day,92.18,Extra,17
+Gold 1,Snow Day,84.482,Extra,17
+Gold 2,Snow Day,73.071,Extra,17
+Gold 3,Snow Day,59.078,Extra,17
+Platinum 1,Snow Day,44.235,Extra,17
+Platinum 2,Snow Day,31.641,Extra,17
+Platinum 3,Snow Day,21.26,Extra,17
+Diamond 1,Snow Day,13.509,Extra,17
+Diamond 2,Snow Day,8.309,Extra,17
+Diamond 3,Snow Day,4.834,Extra,17
+Champion 1,Snow Day,2.732,Extra,17
+Champion 2,Snow Day,1.543,Extra,17
+Champion 3,Snow Day,0.842,Extra,17
+GC 1,Snow Day,0.323,Extra,17
+GC 2,Snow Day,0.128,Extra,17
+GC 3,Snow Day,0.04,Extra,17
+SL,Snow Day,0.024,Extra,17
+Bronze 1,Solo Duel,99.999,Standard,16
+Bronze 2,Solo Duel,99.973,Standard,16
+Bronze 3,Solo Duel,99.81,Standard,16
+Silver 1,Solo Duel,99.155,Standard,16
+Silver 2,Solo Duel,97.353,Standard,16
+Silver 3,Solo Duel,93.444,Standard,16
+Gold 1,Solo Duel,86.443,Standard,16
+Gold 2,Solo Duel,75.56,Standard,16
+Gold 3,Solo Duel,61.221,Standard,16
+Platinum 1,Solo Duel,44.922,Standard,16
+Platinum 2,Solo Duel,28.514,Standard,16
+Platinum 3,Solo Duel,15.944,Standard,16
+Diamond 1,Solo Duel,8.238,Standard,16
+Diamond 2,Solo Duel,4.024,Standard,16
+Diamond 3,Solo Duel,1.951,Standard,16
+Champion 1,Solo Duel,0.948,Standard,16
+Champion 2,Solo Duel,0.443,Standard,16
+Champion 3,Solo Duel,0.211,Standard,16
+GC 1,Solo Duel,0.104,Standard,16
+GC 2,Solo Duel,0.05,Standard,16
+GC 3,Solo Duel,0.025,Standard,16
+SL,Solo Duel,0.013,Standard,16
+Bronze 1,Standard,100.002,Standard,16
+Bronze 2,Standard,99.887,Standard,16
+Bronze 3,Standard,99.518,Standard,16
+Silver 1,Standard,98.464,Standard,16
+Silver 2,Standard,95.905,Standard,16
+Silver 3,Standard,90.582,Standard,16
+Gold 1,Standard,81.657,Standard,16
+Gold 2,Standard,69.191,Standard,16
+Gold 3,Standard,55.522,Standard,16
+Platinum 1,Standard,42.856,Standard,16
+Platinum 2,Standard,31.961,Standard,16
+Platinum 3,Standard,23.456,Standard,16
+Diamond 1,Standard,16.921,Standard,16
+Diamond 2,Standard,10.517,Standard,16
+Diamond 3,Standard,6.388,Standard,16
+Champion 1,Standard,3.776,Standard,16
+Champion 2,Standard,1.582,Standard,16
+Champion 3,Standard,0.66,Standard,16
+GC 1,Standard,0.263,Standard,16
+GC 2,Standard,0.075,Standard,16
+GC 3,Standard,0.018,Standard,16
+SL,Standard,0.003,Standard,16
+Bronze 1,Doubles,100.002,Standard,16
+Bronze 2,Doubles,99.836,Standard,16
+Bronze 3,Doubles,99.377,Standard,16
+Silver 1,Doubles,98.312,Standard,16
+Silver 2,Doubles,96.155,Standard,16
+Silver 3,Doubles,92.377,Standard,16
+Gold 1,Doubles,86.531,Standard,16
+Gold 2,Doubles,78.315,Standard,16
+Gold 3,Doubles,68.286,Standard,16
+Platinum 1,Doubles,57.43,Standard,16
+Platinum 2,Doubles,46.239,Standard,16
+Platinum 3,Doubles,36.331,Standard,16
+Diamond 1,Doubles,28.163,Standard,16
+Diamond 2,Doubles,19.332,Standard,16
+Diamond 3,Doubles,13.07,Standard,16
+Champion 1,Doubles,8.656,Standard,16
+Champion 2,Doubles,4.246,Standard,16
+Champion 3,Doubles,2.071,Standard,16
+GC 1,Doubles,0.971,Standard,16
+GC 2,Doubles,0.322,Standard,16
+GC 3,Doubles,0.093,Standard,16
+SL,Doubles,0.03,Standard,16
+Bronze 1,Rumble,100.002,Extra,16
+Bronze 2,Rumble,99.982,Extra,16
+Bronze 3,Rumble,99.87,Extra,16
+Silver 1,Rumble,99.445,Extra,16
+Silver 2,Rumble,98.211,Extra,16
+Silver 3,Rumble,95.262,Extra,16
+Gold 1,Rumble,89.108,Extra,16
+Gold 2,Rumble,78.284,Extra,16
+Gold 3,Rumble,62.526,Extra,16
+Platinum 1,Rumble,44.122,Extra,16
+Platinum 2,Rumble,27.611,Extra,16
+Platinum 3,Rumble,16.09,Extra,16
+Diamond 1,Rumble,8.958,Extra,16
+Diamond 2,Rumble,4.948,Extra,16
+Diamond 3,Rumble,2.725,Extra,16
+Champion 1,Rumble,1.498,Extra,16
+Champion 2,Rumble,0.796,Extra,16
+Champion 3,Rumble,0.424,Extra,16
+GC 1,Rumble,0.184,Extra,16
+GC 2,Rumble,0.059,Extra,16
+GC 3,Rumble,0.014,Extra,16
+SL,Rumble,0.006,Extra,16
+Bronze 1,Hoops,100.001,Extra,16
+Bronze 2,Hoops,99.993,Extra,16
+Bronze 3,Hoops,99.961,Extra,16
+Silver 1,Hoops,99.759,Extra,16
+Silver 2,Hoops,99.005,Extra,16
+Silver 3,Hoops,96.684,Extra,16
+Gold 1,Hoops,90.561,Extra,16
+Gold 2,Hoops,79.03,Extra,16
+Gold 3,Hoops,61.682,Extra,16
+Platinum 1,Hoops,43.048,Extra,16
+Platinum 2,Hoops,26.983,Extra,16
+Platinum 3,Hoops,15.878,Extra,16
+Diamond 1,Hoops,9.006,Extra,16
+Diamond 2,Hoops,5.017,Extra,16
+Diamond 3,Hoops,2.778,Extra,16
+Champion 1,Hoops,1.529,Extra,16
+Champion 2,Hoops,0.818,Extra,16
+Champion 3,Hoops,0.431,Extra,16
+GC 1,Hoops,0.2,Extra,16
+GC 2,Hoops,0.07,Extra,16
+GC 3,Hoops,0.02,Extra,16
+SL,Hoops,0.01,Extra,16
+Bronze 1,Dropshot,99.999,Extra,16
+Bronze 2,Dropshot,99.925,Extra,16
+Bronze 3,Dropshot,99.658,Extra,16
+Silver 1,Dropshot,98.884,Extra,16
+Silver 2,Dropshot,96.967,Extra,16
+Silver 3,Dropshot,93.79,Extra,16
+Gold 1,Dropshot,88.348,Extra,16
+Gold 2,Dropshot,79.819,Extra,16
+Gold 3,Dropshot,67.816,Extra,16
+Platinum 1,Dropshot,53.376,Extra,16
+Platinum 2,Dropshot,38.647,Extra,16
+Platinum 3,Dropshot,26.008,Extra,16
+Diamond 1,Dropshot,16.481,Extra,16
+Diamond 2,Dropshot,9.902,Extra,16
+Diamond 3,Dropshot,5.731,Extra,16
+Champion 1,Dropshot,3.23,Extra,16
+Champion 2,Dropshot,1.751,Extra,16
+Champion 3,Dropshot,0.958,Extra,16
+GC 1,Dropshot,0.454,Extra,16
+GC 2,Dropshot,0.15,Extra,16
+GC 3,Dropshot,0.046,Extra,16
+SL,Dropshot,0.023,Extra,16
+Bronze 1,Solo Duel,100.0,Standard,15
+Bronze 2,Solo Duel,99.96,Standard,15
+Bronze 3,Solo Duel,99.76,Standard,15
+Silver 1,Solo Duel,98.96,Standard,15
+Silver 2,Solo Duel,96.8,Standard,15
+Silver 3,Solo Duel,92.29,Standard,15
+Gold 1,Solo Duel,84.6,Standard,15
+Gold 2,Solo Duel,73.15,Standard,15
+Gold 3,Solo Duel,58.62,Standard,15
+Platinum 1,Solo Duel,42.63,Standard,15
+Platinum 2,Solo Duel,27.0,Standard,15
+Platinum 3,Solo Duel,15.2,Standard,15
+Diamond 1,Solo Duel,7.89,Standard,15
+Diamond 2,Solo Duel,3.88,Standard,15
+Diamond 3,Solo Duel,1.89,Standard,15
+Champion 1,Solo Duel,0.92,Standard,15
+Champion 2,Solo Duel,0.43,Standard,15
+Champion 3,Solo Duel,0.21,Standard,15
+GC 1,Solo Duel,0.1,Standard,15
+GC 2,Solo Duel,0.05,Standard,15
+GC 3,Solo Duel,0.03,Standard,15
+SL,Solo Duel,0.01,Standard,15
+Bronze 1,Standard,100.0,Standard,15
+Bronze 2,Standard,99.88,Standard,15
+Bronze 3,Standard,99.48,Standard,15
+Silver 1,Standard,98.36,Standard,15
+Silver 2,Standard,95.69,Standard,15
+Silver 3,Standard,90.27,Standard,15
+Gold 1,Standard,81.32,Standard,15
+Gold 2,Standard,69.0,Standard,15
+Gold 3,Standard,55.5,Standard,15
+Platinum 1,Standard,42.95,Standard,15
+Platinum 2,Standard,32.11,Standard,15
+Platinum 3,Standard,23.59,Standard,15
+Diamond 1,Standard,17.05,Standard,15
+Diamond 2,Standard,10.62,Standard,15
+Diamond 3,Standard,6.46,Standard,15
+Champion 1,Standard,3.83,Standard,15
+Champion 2,Standard,1.6,Standard,15
+Champion 3,Standard,0.68,Standard,15
+GC 1,Standard,0.27,Standard,15
+GC 2,Standard,0.08,Standard,15
+GC 3,Standard,0.02,Standard,15
+SL,Standard,0.0,Standard,15
+Bronze 1,Doubles,100.0,Standard,15
+Bronze 2,Doubles,99.85,Standard,15
+Bronze 3,Doubles,99.44,Standard,15
+Silver 1,Doubles,98.46,Standard,15
+Silver 2,Doubles,96.44,Standard,15
+Silver 3,Doubles,92.83,Standard,15
+Gold 1,Doubles,87.19,Standard,15
+Gold 2,Doubles,79.15,Standard,15
+Gold 3,Doubles,69.22,Standard,15
+Platinum 1,Doubles,58.35,Standard,15
+Platinum 2,Doubles,47.02,Standard,15
+Platinum 3,Doubles,36.87,Standard,15
+Diamond 1,Doubles,28.45,Standard,15
+Diamond 2,Doubles,19.38,Standard,15
+Diamond 3,Doubles,12.98,Standard,15
+Champion 1,Doubles,8.51,Standard,15
+Champion 2,Doubles,4.1,Standard,15
+Champion 3,Doubles,1.96,Standard,15
+GC 1,Doubles,0.9,Standard,15
+GC 2,Doubles,0.3,Standard,15
+GC 3,Doubles,0.09,Standard,15
+SL,Doubles,0.04,Standard,15
+Bronze 1,Rumble,100.0,Extra,15
+Bronze 2,Rumble,99.97,Extra,15
+Bronze 3,Rumble,99.84,Extra,15
+Silver 1,Rumble,99.36,Extra,15
+Silver 2,Rumble,98.07,Extra,15
+Silver 3,Rumble,95.1,Extra,15
+Gold 1,Rumble,89.21,Extra,15
+Gold 2,Rumble,78.76,Extra,15
+Gold 3,Rumble,63.43,Extra,15
+Platinum 1,Rumble,45.37,Extra,15
+Platinum 2,Rumble,28.75,Extra,15
+Platinum 3,Rumble,16.84,Extra,15
+Diamond 1,Rumble,9.46,Extra,15
+Diamond 2,Rumble,5.19,Extra,15
+Diamond 3,Rumble,2.85,Extra,15
+Champion 1,Rumble,1.56,Extra,15
+Champion 2,Rumble,0.82,Extra,15
+Champion 3,Rumble,0.44,Extra,15
+GC 1,Rumble,0.19,Extra,15
+GC 2,Rumble,0.06,Extra,15
+GC 3,Rumble,0.02,Extra,15
+SL,Rumble,0.01,Extra,15
+Bronze 1,Hoops,100.0,Extra,15
+Bronze 2,Hoops,100.0,Extra,15
+Bronze 3,Hoops,99.96,Extra,15
+Silver 1,Hoops,99.75,Extra,15
+Silver 2,Hoops,99.0,Extra,15
+Silver 3,Hoops,96.76,Extra,15
+Gold 1,Hoops,91.18,Extra,15
+Gold 2,Hoops,80.27,Extra,15
+Gold 3,Hoops,63.66,Extra,15
+Platinum 1,Hoops,45.01,Extra,15
+Platinum 2,Hoops,28.38,Extra,15
+Platinum 3,Hoops,16.69,Extra,15
+Diamond 1,Hoops,9.45,Extra,15
+Diamond 2,Hoops,5.26,Extra,15
+Diamond 3,Hoops,2.92,Extra,15
+Champion 1,Hoops,1.61,Extra,15
+Champion 2,Hoops,0.87,Extra,15
+Champion 3,Hoops,0.46,Extra,15
+GC 1,Hoops,0.22,Extra,15
+GC 2,Hoops,0.09,Extra,15
+GC 3,Hoops,0.03,Extra,15
+SL,Hoops,0.02,Extra,15
+Bronze 1,Snow day,100.0,Extra,15
+Bronze 2,Snow day,99.88,Extra,15
+Bronze 3,Snow day,99.57,Extra,15
+Silver 1,Snow day,98.76,Extra,15
+Silver 2,Snow day,97.28,Extra,15
+Silver 3,Snow day,94.44,Extra,15
+Gold 1,Snow day,89.44,Extra,15
+Gold 2,Snow day,81.27,Extra,15
+Gold 3,Snow day,69.55,Extra,15
+Platinum 1,Snow day,55.48,Extra,15
+Platinum 2,Snow day,40.88,Extra,15
+Platinum 3,Snow day,28.25,Extra,15
+Diamond 1,Snow day,18.45,Extra,15
+Diamond 2,Snow day,11.55,Extra,15
+Diamond 3,Snow day,6.93,Extra,15
+Champion 1,Snow day,4.06,Extra,15
+Champion 2,Snow day,2.28,Extra,15
+Champion 3,Snow day,1.28,Extra,15
+GC 1,Snow day,0.65,Extra,15
+GC 2,Snow day,0.24,Extra,15
+GC 3,Snow day,0.08,Extra,15
+SL,Snow day,0.05,Extra,15
+Bronze 1,Solo Duel,100.0,Standard,14
+Bronze 2,Solo Duel,99.91,Standard,14
+Bronze 3,Solo Duel,99.9,Standard,14
+Silver 1,Solo Duel,99.5,Standard,14
+Silver 2,Solo Duel,98.19,Standard,14
+Silver 3,Solo Duel,95.14,Standard,14
+Gold 1,Solo Duel,89.37,Standard,14
+Gold 2,Solo Duel,80.34,Standard,14
+Gold 3,Solo Duel,67.16,Standard,14
+Platinum 1,Solo Duel,51.92,Standard,14
+Platinum 2,Solo Duel,35.7,Standard,14
+Platinum 3,Solo Duel,21.54,Standard,14
+Diamond 1,Solo Duel,11.82,Standard,14
+Diamond 2,Solo Duel,5.97,Standard,14
+Diamond 3,Solo Duel,2.93,Standard,14
+Champion 1,Solo Duel,1.44,Standard,14
+Champion 2,Solo Duel,0.67,Standard,14
+Champion 3,Solo Duel,0.33,Standard,14
+GC 1,Solo Duel,0.16,Standard,14
+GC 2,Solo Duel,0.04,Standard,14
+GC 3,Solo Duel,0.02,Standard,14
+SL,Solo Duel,0.02,Standard,14
+Bronze 1,Standard,100.0,Standard,14
+Bronze 2,Standard,99.84,Standard,14
+Bronze 3,Standard,99.34,Standard,14
+Silver 1,Standard,97.97,Standard,14
+Silver 2,Standard,94.86,Standard,14
+Silver 3,Standard,88.84,Standard,14
+Gold 1,Standard,79.45,Standard,14
+Gold 2,Standard,67.1,Standard,14
+Gold 3,Standard,53.99,Standard,14
+Platinum 1,Standard,41.87,Standard,14
+Platinum 2,Standard,31.4,Standard,14
+Platinum 3,Standard,23.12,Standard,14
+Diamond 1,Standard,16.69,Standard,14
+Diamond 2,Standard,10.43,Standard,14
+Diamond 3,Standard,6.34,Standard,14
+Champion 1,Standard,3.74,Standard,14
+Champion 2,Standard,1.58,Standard,14
+Champion 3,Standard,0.66,Standard,14
+GC 1,Standard,0.26,Standard,14
+GC 2,Standard,0.08,Standard,14
+GC 3,Standard,0.04,Standard,14
+SL,Standard,0.0,Standard,14
+Bronze 1,Doubles,100.0,Standard,14
+Bronze 2,Doubles,99.89,Standard,14
+Bronze 3,Doubles,99.55,Standard,14
+Silver 1,Doubles,98.7,Standard,14
+Silver 2,Doubles,96.9,Standard,14
+Silver 3,Doubles,93.6,Standard,14
+Gold 1,Doubles,88.3,Standard,14
+Gold 2,Doubles,80.63,Standard,14
+Gold 3,Doubles,71.01,Standard,14
+Platinum 1,Doubles,60.23,Standard,14
+Platinum 2,Doubles,48.79,Standard,14
+Platinum 3,Doubles,38.31,Standard,14
+Diamond 1,Doubles,29.48,Standard,14
+Diamond 2,Doubles,19.92,Standard,14
+Diamond 3,Doubles,13.18,Standard,14
+Champion 1,Doubles,8.52,Standard,14
+Champion 2,Doubles,4.0,Standard,14
+Champion 3,Doubles,1.85,Standard,14
+GC 1,Doubles,0.81,Standard,14
+GC 2,Doubles,0.25,Standard,14
+GC 3,Doubles,0.09,Standard,14
+SL,Doubles,0.03,Standard,14
+Bronze 1,Rumble,100.0,Extra,14
+Bronze 2,Rumble,99.95,Extra,14
+Bronze 3,Rumble,99.68,Extra,14
+Silver 1,Rumble,98.89,Extra,14
+Silver 2,Rumble,97.04,Extra,14
+Silver 3,Rumble,93.07,Extra,14
+Gold 1,Rumble,85.72,Extra,14
+Gold 2,Rumble,73.69,Extra,14
+Gold 3,Rumble,57.45,Extra,14
+Platinum 1,Rumble,39.85,Extra,14
+Platinum 2,Rumble,24.81,Extra,14
+Platinum 3,Rumble,14.39,Extra,14
+Diamond 1,Rumble,8.02,Extra,14
+Diamond 2,Rumble,4.38,Extra,14
+Diamond 3,Rumble,2.4,Extra,14
+Champion 1,Rumble,1.31,Extra,14
+Champion 2,Rumble,0.69,Extra,14
+Champion 3,Rumble,0.35,Extra,14
+GC 1,Rumble,0.14,Extra,14
+GC 2,Rumble,0.05,Extra,14
+GC 3,Rumble,0.01,Extra,14
+SL,Rumble,0.01,Extra,14
+Bronze 1,Hoops,100.0,Extra,14
+Bronze 2,Hoops,99.98,Extra,14
+Bronze 3,Hoops,99.87,Extra,14
+Silver 1,Hoops,99.28,Extra,14
+Silver 2,Hoops,97.6,Extra,14
+Silver 3,Hoops,93.33,Extra,14
+Gold 1,Hoops,84.52,Extra,14
+Gold 2,Hoops,70.1,Extra,14
+Gold 3,Hoops,52.81,Extra,14
+Platinum 1,Hoops,34.57,Extra,14
+Platinum 2,Hoops,21.0,Extra,14
+Platinum 3,Hoops,12.12,Extra,14
+Diamond 1,Hoops,6.82,Extra,14
+Diamond 2,Hoops,3.79,Extra,14
+Diamond 3,Hoops,2.11,Extra,14
+Champion 1,Hoops,1.14,Extra,14
+Champion 2,Hoops,0.61,Extra,14
+Champion 3,Hoops,0.31,Extra,14
+GC 1,Hoops,0.13,Extra,14
+GC 2,Hoops,0.05,Extra,14
+GC 3,Hoops,0.01,Extra,14
+SL,Hoops,0.01,Extra,14
+Bronze 1,Dropshot,100.0,Extra,14
+Bronze 2,Dropshot,99.91,Extra,14
+Bronze 3,Dropshot,99.62,Extra,14
+Silver 1,Dropshot,98.79,Extra,14
+Silver 2,Dropshot,96.81,Extra,14
+Silver 3,Dropshot,93.59,Extra,14
+Gold 1,Dropshot,88.14,Extra,14
+Gold 2,Dropshot,79.67,Extra,14
+Gold 3,Dropshot,67.79,Extra,14
+Platinum 1,Dropshot,53.61,Extra,14
+Platinum 2,Dropshot,39.13,Extra,14
+Platinum 3,Dropshot,26.54,Extra,14
+Diamond 1,Dropshot,16.94,Extra,14
+Diamond 2,Dropshot,10.25,Extra,14
+Diamond 3,Dropshot,5.93,Extra,14
+Champion 1,Dropshot,3.33,Extra,14
+Champion 2,Dropshot,1.8,Extra,14
+Champion 3,Dropshot,0.96,Extra,14
+GC 1,Dropshot,0.45,Extra,14
+GC 2,Dropshot,0.15,Extra,14
+GC 3,Dropshot,0.06,Extra,14
+SL,Dropshot,0.03,Extra,14
+Bronze 1,Solo Duel,100.0,Standard,13
+Bronze 2,Solo Duel,99.97,Standard,13
+Bronze 3,Solo Duel,99.81,Standard,13
+Silver 1,Solo Duel,99.08,Standard,13
+Silver 2,Solo Duel,97.01,Standard,13
+Silver 3,Solo Duel,92.55,Standard,13
+Gold 1,Solo Duel,84.89,Standard,13
+Gold 2,Solo Duel,73.52,Standard,13
+Gold 3,Solo Duel,59.22,Standard,13
+Platinum 1,Solo Duel,43.76,Standard,13
+Platinum 2,Solo Duel,28.56,Standard,13
+Platinum 3,Solo Duel,16.64,Standard,13
+Diamond 1,Solo Duel,8.95,Standard,13
+Diamond 2,Solo Duel,4.48,Standard,13
+Diamond 3,Solo Duel,2.19,Standard,13
+Champion 1,Solo Duel,1.07,Standard,13
+Champion 2,Solo Duel,0.5,Standard,13
+Champion 3,Solo Duel,0.24,Standard,13
+GC 1,Solo Duel,0.12,Standard,13
+GC 2,Solo Duel,0.06,Standard,13
+GC 3,Solo Duel,0.03,Standard,13
+SL,Solo Duel,0.02,Standard,13
+Bronze 1,Standard,100.0,Standard,13
+Bronze 2,Standard,99.86,Standard,13
+Bronze 3,Standard,99.41,Standard,13
+Silver 1,Standard,98.14,Standard,13
+Silver 2,Standard,95.22,Standard,13
+Silver 3,Standard,89.49,Standard,13
+Gold 1,Standard,80.43,Standard,13
+Gold 2,Standard,68.31,Standard,13
+Gold 3,Standard,55.15,Standard,13
+Platinum 1,Standard,42.88,Standard,13
+Platinum 2,Standard,32.16,Standard,13
+Platinum 3,Standard,23.67,Standard,13
+Diamond 1,Standard,17.13,Standard,13
+Diamond 2,Standard,10.74,Standard,13
+Diamond 3,Standard,6.56,Standard,13
+Champion 1,Standard,3.89,Standard,13
+Champion 2,Standard,1.66,Standard,13
+Champion 3,Standard,0.7,Standard,13
+GC 1,Standard,0.28,Standard,13
+GC 2,Standard,0.08,Standard,13
+GC 3,Standard,0.02,Standard,13
+SL,Standard,0.01,Standard,13
+Bronze 1,Doubles,100.0,Standard,13
+Bronze 2,Doubles,99.91,Standard,13
+Bronze 3,Doubles,99.62,Standard,13
+Silver 1,Doubles,98.85,Standard,13
+Silver 2,Doubles,97.16,Standard,13
+Silver 3,Doubles,93.96,Standard,13
+Gold 1,Doubles,88.72,Standard,13
+Gold 2,Doubles,80.98,Standard,13
+Gold 3,Doubles,71.13,Standard,13
+Platinum 1,Doubles,60.02,Standard,13
+Platinum 2,Doubles,48.22,Standard,13
+Platinum 3,Doubles,37.43,Standard,13
+Diamond 1,Doubles,28.37,Standard,13
+Diamond 2,Doubles,18.72,Standard,13
+Diamond 3,Doubles,12.06,Standard,13
+Champion 1,Doubles,7.61,Standard,13
+Champion 2,Doubles,3.44,Standard,13
+Champion 3,Doubles,1.52,Standard,13
+GC 1,Doubles,0.63,Standard,13
+GC 2,Doubles,0.17,Standard,13
+GC 3,Doubles,0.05,Standard,13
+SL,Doubles,0.02,Standard,13
+Bronze 1,Rumble,100.0,Extra,13
+Bronze 2,Rumble,99.96,Extra,13
+Bronze 3,Rumble,99.74,Extra,13
+Silver 1,Rumble,99.06,Extra,13
+Silver 2,Rumble,97.46,Extra,13
+Silver 3,Rumble,93.99,Extra,13
+Gold 1,Rumble,87.57,Extra,13
+Gold 2,Rumble,76.86,Extra,13
+Gold 3,Rumble,61.93,Extra,13
+Platinum 1,Rumble,44.89,Extra,13
+Platinum 2,Rumble,29.04,Extra,13
+Platinum 3,Rumble,17.28,Extra,13
+Diamond 1,Rumble,9.78,Extra,13
+Diamond 2,Rumble,5.35,Extra,13
+Diamond 3,Rumble,2.92,Extra,13
+Champion 1,Rumble,1.59,Extra,13
+Champion 2,Rumble,0.84,Extra,13
+Champion 3,Rumble,0.44,Extra,13
+GC 1,Rumble,0.18,Extra,13
+GC 2,Rumble,0.05,Extra,13
+GC 3,Rumble,0.02,Extra,13
+SL,Rumble,0.01,Extra,13
+Bronze 1,Hoops,100.0,Extra,13
+Bronze 2,Hoops,99.99,Extra,13
+Bronze 3,Hoops,99.93,Extra,13
+Silver 1,Hoops,99.58,Extra,13
+Silver 2,Hoops,98.53,Extra,13
+Silver 3,Hoops,95.71,Extra,13
+Gold 1,Hoops,89.42,Extra,13
+Gold 2,Hoops,78.04,Extra,13
+Gold 3,Hoops,61.93,Extra,13
+Platinum 1,Hoops,44.09,Extra,13
+Platinum 2,Hoops,28.25,Extra,13
+Platinum 3,Hoops,16.85,Extra,13
+Diamond 1,Hoops,9.65,Extra,13
+Diamond 2,Hoops,5.38,Extra,13
+Diamond 3,Hoops,3.0,Extra,13
+Champion 1,Hoops,1.65,Extra,13
+Champion 2,Hoops,0.89,Extra,13
+Champion 3,Hoops,0.47,Extra,13
+GC 1,Hoops,0.21,Extra,13
+GC 2,Hoops,0.07,Extra,13
+GC 3,Hoops,0.03,Extra,13
+SL,Hoops,0.02,Extra,13
+Bronze 1,Snow Day,100.0,Extra,13
+Bronze 2,Snow Day,99.79,Extra,13
+Bronze 3,Snow Day,99.28,Extra,13
+Silver 1,Snow Day,97.95,Extra,13
+Silver 2,Snow Day,95.55,Extra,13
+Silver 3,Snow Day,91.14,Extra,13
+Gold 1,Snow Day,83.78,Extra,13
+Gold 2,Snow Day,72.84,Extra,13
+Gold 3,Snow Day,59.08,Extra,13
+Platinum 1,Snow Day,44.54,Extra,13
+Platinum 2,Snow Day,31.26,Extra,13
+Platinum 3,Snow Day,20.7,Extra,13
+Diamond 1,Snow Day,13.05,Extra,13
+Diamond 2,Snow Day,7.85,Extra,13
+Diamond 3,Snow Day,4.55,Extra,13
+Champion 1,Snow Day,2.55,Extra,13
+Champion 2,Snow Day,1.38,Extra,13
+Champion 3,Snow Day,0.74,Extra,13
+GC 1,Snow Day,0.35,Extra,13
+GC 2,Snow Day,0.11,Extra,13
+GC 3,Snow Day,0.04,Extra,13
+SL,Snow Day,0.03,Extra,13
+Bronze 1,Solo Duel,100.02,Standard,12
+Bronze 2,Solo Duel,99.99,Standard,12
+Bronze 3,Solo Duel,99.79,Standard,12
+Silver 1,Solo Duel,98.94,Standard,12
+Silver 2,Solo Duel,96.66,Standard,12
+Silver 3,Solo Duel,91.91,Standard,12
+Gold 1,Solo Duel,84.02,Standard,12
+Gold 2,Solo Duel,72.51,Standard,12
+Gold 3,Solo Duel,58.35,Standard,12
+Platinum 1,Solo Duel,43.21,Standard,12
+Platinum 2,Solo Duel,28.44,Standard,12
+Platinum 3,Solo Duel,16.84,Standard,12
+Diamond 1,Solo Duel,9.24,Standard,12
+Diamond 2,Solo Duel,4.69,Standard,12
+Diamond 3,Solo Duel,2.31,Standard,12
+Champion 1,Solo Duel,1.13,Standard,12
+Champion 2,Solo Duel,0.53,Standard,12
+Champion 3,Solo Duel,0.25,Standard,12
+GC 1,Solo Duel,0.12,Standard,12
+GC 2,Solo Duel,0.06,Standard,12
+GC 3,Solo Duel,0.03,Standard,12
+SL,Solo Duel,0.02,Standard,12
+Bronze 1,Standard,100.0,Standard,12
+Bronze 2,Standard,99.86,Standard,12
+Bronze 3,Standard,99.41,Standard,12
+Silver 1,Standard,98.16,Standard,12
+Silver 2,Standard,95.32,Standard,12
+Silver 3,Standard,89.82,Standard,12
+Gold 1,Standard,81.11,Standard,12
+Gold 2,Standard,69.39,Standard,12
+Gold 3,Standard,56.51,Standard,12
+Platinum 1,Standard,44.34,Standard,12
+Platinum 2,Standard,33.52,Standard,12
+Platinum 3,Standard,24.85,Standard,12
+Diamond 1,Standard,18.1,Standard,12
+Diamond 2,Standard,11.43,Standard,12
+Diamond 3,Standard,7.03,Standard,12
+Champion 1,Standard,4.2,Standard,12
+Champion 2,Standard,1.8,Standard,12
+Champion 3,Standard,0.77,Standard,12
+GC 1,Standard,0.31,Standard,12
+GC 2,Standard,0.09,Standard,12
+GC 3,Standard,0.02,Standard,12
+SL,Standard,0.0,Standard,12
+Bronze 1,Doubles,100.0,Standard,12
+Bronze 2,Doubles,99.93,Standard,12
+Bronze 3,Doubles,99.7,Standard,12
+Silver 1,Doubles,99.05,Standard,12
+Silver 2,Doubles,97.55,Standard,12
+Silver 3,Doubles,94.6,Standard,12
+Gold 1,Doubles,89.62,Standard,12
+Gold 2,Doubles,82.07,Standard,12
+Gold 3,Doubles,72.29,Standard,12
+Platinum 1,Doubles,61.04,Standard,12
+Platinum 2,Doubles,48.98,Standard,12
+Platinum 3,Doubles,37.82,Standard,12
+Diamond 1,Doubles,28.3,Standard,12
+Diamond 2,Doubles,18.33,Standard,12
+Diamond 3,Doubles,11.49,Standard,12
+Champion 1,Doubles,6.97,Standard,12
+Champion 2,Doubles,2.99,Standard,12
+Champion 3,Doubles,1.23,Standard,12
+GC 1,Doubles,0.47,Standard,12
+GC 2,Doubles,0.11,Standard,12
+GC 3,Doubles,0.03,Standard,12
+SL,Doubles,0.01,Standard,12
+Bronze 1,Rumble,100.0,Extra,12
+Bronze 2,Rumble,99.95,Extra,12
+Bronze 3,Rumble,99.73,Extra,12
+Silver 1,Rumble,99.07,Extra,12
+Silver 2,Rumble,97.55,Extra,12
+Silver 3,Rumble,94.29,Extra,12
+Gold 1,Rumble,88.29,Extra,12
+Gold 2,Rumble,78.31,Extra,12
+Gold 3,Rumble,64.21,Extra,12
+Platinum 1,Rumble,47.75,Extra,12
+Platinum 2,Rumble,31.8,Extra,12
+Platinum 3,Rumble,19.44,Extra,12
+Diamond 1,Rumble,11.23,Extra,12
+Diamond 2,Rumble,6.21,Extra,12
+Diamond 3,Rumble,3.41,Extra,12
+Champion 1,Rumble,1.87,Extra,12
+Champion 2,Rumble,0.99,Extra,12
+Champion 3,Rumble,0.52,Extra,12
+GC 1,Rumble,0.21,Extra,12
+GC 2,Rumble,0.07,Extra,12
+GC 3,Rumble,0.02,Extra,12
+SL,Rumble,0.01,Extra,12
+Bronze 1,Dropshot,100.0,Extra,12
+Bronze 2,Dropshot,99.85,Extra,12
+Bronze 3,Dropshot,99.4,Extra,12
+Silver 1,Dropshot,98.2,Extra,12
+Silver 2,Dropshot,95.5,Extra,12
+Silver 3,Dropshot,91.33,Extra,12
+Gold 1,Dropshot,84.63,Extra,12
+Gold 2,Dropshot,74.74,Extra,12
+Gold 3,Dropshot,61.88,Extra,12
+Platinum 1,Dropshot,47.55,Extra,12
+Platinum 2,Dropshot,33.84,Extra,12
+Platinum 3,Dropshot,22.5,Extra,12
+Diamond 1,Dropshot,14.11,Extra,12
+Diamond 2,Dropshot,8.4,Extra,12
+Diamond 3,Dropshot,4.79,Extra,12
+Champion 1,Dropshot,2.64,Extra,12
+Champion 2,Dropshot,1.38,Extra,12
+Champion 3,Dropshot,0.72,Extra,12
+GC 1,Dropshot,0.32,Extra,12
+GC 2,Dropshot,0.08,Extra,12
+GC 3,Dropshot,0.02,Extra,12
+SL,Dropshot,0.01,Extra,12
+Bronze 1,Hoops,99.99,Extra,12
+Bronze 2,Hoops,99.98,Extra,12
+Bronze 3,Hoops,99.92,Extra,12
+Silver 1,Hoops,99.58,Extra,12
+Silver 2,Hoops,98.56,Extra,12
+Silver 3,Hoops,95.92,Extra,12
+Gold 1,Hoops,90.06,Extra,12
+Gold 2,Hoops,79.49,Extra,12
+Gold 3,Hoops,64.28,Extra,12
+Platinum 1,Hoops,46.93,Extra,12
+Platinum 2,Hoops,30.92,Extra,12
+Platinum 3,Hoops,18.83,Extra,12
+Diamond 1,Hoops,10.93,Extra,12
+Diamond 2,Hoops,6.15,Extra,12
+Diamond 3,Hoops,3.43,Extra,12
+Champion 1,Hoops,1.9,Extra,12
+Champion 2,Hoops,1.02,Extra,12
+Champion 3,Hoops,0.53,Extra,12
+GC 1,Hoops,0.22,Extra,12
+GC 2,Hoops,0.07,Extra,12
+GC 3,Hoops,0.02,Extra,12
+SL,Hoops,0.01,Extra,12
+Bronze 1,Snow Day,100.01,Extra,12
+Bronze 2,Snow Day,99.66,Extra,12
+Bronze 3,Snow Day,98.9,Extra,12
+Silver 1,Snow Day,97.06,Extra,12
+Silver 2,Snow Day,93.96,Extra,12
+Silver 3,Snow Day,88.58,Extra,12
+Gold 1,Snow Day,80.06,Extra,12
+Gold 2,Snow Day,68.33,Extra,12
+Gold 3,Snow Day,54.44,Extra,12
+Platinum 1,Snow Day,40.54,Extra,12
+Platinum 2,Snow Day,28.26,Extra,12
+Platinum 3,Snow Day,18.66,Extra,12
+Diamond 1,Snow Day,11.73,Extra,12
+Diamond 2,Snow Day,7.02,Extra,12
+Diamond 3,Snow Day,4.06,Extra,12
+Champion 1,Snow Day,2.26,Extra,12
+Champion 2,Snow Day,1.2,Extra,12
+Champion 3,Snow Day,0.63,Extra,12
+GC 1,Snow Day,0.29,Extra,12
+GC 2,Snow Day,0.07,Extra,12
+GC 3,Snow Day,0.02,Extra,12
+SL,Snow Day,0.01,Extra,12
+Bronze 1,Solo Duel,99.99,Standard,11
+Bronze 2,Solo Duel,99.97,Standard,11
+Bronze 3,Solo Duel,99.8,Standard,11
+Silver 1,Solo Duel,99.05,Standard,11
+Silver 2,Solo Duel,96.9,Standard,11
+Silver 3,Solo Duel,92.33,Standard,11
+Gold 1,Solo Duel,84.64,Standard,11
+Gold 2,Solo Duel,73.31,Standard,11
+Gold 3,Solo Duel,59.09,Standard,11
+Platinum 1,Solo Duel,43.91,Standard,11
+Platinum 2,Solo Duel,29.27,Standard,11
+Platinum 3,Solo Duel,17.59,Standard,11
+Diamond 1,Solo Duel,9.8,Standard,11
+Diamond 2,Solo Duel,5.05,Standard,11
+Diamond 3,Solo Duel,2.52,Standard,11
+Champion 1,Solo Duel,1.24,Standard,11
+Champion 2,Solo Duel,0.58,Standard,11
+Champion 3,Solo Duel,0.27,Standard,11
+GC 1,Solo Duel,0.13,Standard,11
+GC 2,Solo Duel,0.06,Standard,11
+GC 3,Solo Duel,0.03,Standard,11
+SL,Solo Duel,0.02,Standard,11
+Bronze 1,Standard,100.0,Standard,11
+Bronze 2,Standard,99.82,Standard,11
+Bronze 3,Standard,99.26,Standard,11
+Silver 1,Standard,97.8,Standard,11
+Silver 2,Standard,94.57,Standard,11
+Silver 3,Standard,88.58,Standard,11
+Gold 1,Standard,79.45,Standard,11
+Gold 2,Standard,67.55,Standard,11
+Gold 3,Standard,54.87,Standard,11
+Platinum 1,Standard,43.04,Standard,11
+Platinum 2,Standard,32.61,Standard,11
+Platinum 3,Standard,24.29,Standard,11
+Diamond 1,Standard,17.78,Standard,11
+Diamond 2,Standard,11.3,Standard,11
+Diamond 3,Standard,6.99,Standard,11
+Champion 1,Standard,4.2,Standard,11
+Champion 2,Standard,1.82,Standard,11
+Champion 3,Standard,0.79,Standard,11
+GC 1,Standard,0.32,Standard,11
+GC 2,Standard,0.09,Standard,11
+GC 3,Standard,0.02,Standard,11
+SL,Standard,0.0,Standard,11
+Bronze 1,Doubles,99.99,Standard,11
+Bronze 2,Doubles,99.94,Standard,11
+Bronze 3,Doubles,99.75,Standard,11
+Silver 1,Doubles,99.24,Standard,11
+Silver 2,Doubles,98.04,Standard,11
+Silver 3,Doubles,95.67,Standard,11
+Gold 1,Doubles,91.59,Standard,11
+Gold 2,Doubles,85.22,Standard,11
+Gold 3,Doubles,76.67,Standard,11
+Platinum 1,Doubles,66.51,Standard,11
+Platinum 2,Doubles,55.03,Standard,11
+Platinum 3,Doubles,43.93,Standard,11
+Diamond 1,Doubles,33.92,Standard,11
+Diamond 2,Doubles,22.76,Standard,11
+Diamond 3,Doubles,14.82,Standard,11
+Champion 1,Doubles,9.32,Standard,11
+Champion 2,Doubles,4.17,Standard,11
+Champion 3,Doubles,1.81,Standard,11
+GC 1,Doubles,0.73,Standard,11
+GC 2,Doubles,0.18,Standard,11
+GC 3,Doubles,0.04,Standard,11
+SL,Doubles,0.01,Standard,11
+Bronze 1,Rumble,100.0,Extra,11
+Bronze 2,Rumble,99.93,Extra,11
+Bronze 3,Rumble,99.63,Extra,11
+Silver 1,Rumble,98.78,Extra,11
+Silver 2,Rumble,96.9,Extra,11
+Silver 3,Rumble,93.06,Extra,11
+Gold 1,Rumble,86.27,Extra,11
+Gold 2,Rumble,75.54,Extra,11
+Gold 3,Rumble,61.1,Extra,11
+Platinum 1,Rumble,44.88,Extra,11
+Platinum 2,Rumble,29.69,Extra,11
+Platinum 3,Rumble,18.16,Extra,11
+Diamond 1,Rumble,10.51,Extra,11
+Diamond 2,Rumble,5.87,Extra,11
+Diamond 3,Rumble,3.25,Extra,11
+Champion 1,Rumble,1.79,Extra,11
+Champion 2,Rumble,0.96,Extra,11
+Champion 3,Rumble,0.51,Extra,11
+GC 1,Rumble,0.21,Extra,11
+GC 2,Rumble,0.06,Extra,11
+GC 3,Rumble,0.02,Extra,11
+SL,Rumble,0.01,Extra,11
+Bronze 1,Dropshot,100.0,Extra,11
+Bronze 2,Dropshot,99.98,Extra,11
+Bronze 3,Dropshot,99.91,Extra,11
+Silver 1,Dropshot,99.63,Extra,11
+Silver 2,Dropshot,98.63,Extra,11
+Silver 3,Dropshot,96.48,Extra,11
+Gold 1,Dropshot,92.02,Extra,11
+Gold 2,Dropshot,84.13,Extra,11
+Gold 3,Dropshot,72.42,Extra,11
+Platinum 1,Dropshot,58.08,Extra,11
+Platinum 2,Dropshot,43.26,Extra,11
+Platinum 3,Dropshot,30.1,Extra,11
+Diamond 1,Dropshot,19.71,Extra,11
+Diamond 2,Dropshot,12.21,Extra,11
+Diamond 3,Dropshot,7.2,Extra,11
+Champion 1,Dropshot,4.09,Extra,11
+Champion 2,Dropshot,2.2,Extra,11
+Champion 3,Dropshot,1.15,Extra,11
+GC 1,Dropshot,0.53,Extra,11
+GC 2,Dropshot,0.2,Extra,11
+GC 3,Dropshot,0.04,Extra,11
+SL,Dropshot,0.02,Extra,11
+Bronze 1,Hoops,99.97,Extra,11
+Bronze 2,Hoops,99.95,Extra,11
+Bronze 3,Hoops,99.85,Extra,11
+Silver 1,Hoops,99.36,Extra,11
+Silver 2,Hoops,98.0,Extra,11
+Silver 3,Hoops,94.69,Extra,11
+Gold 1,Hoops,87.95,Extra,11
+Gold 2,Hoops,76.54,Extra,11
+Gold 3,Hoops,61.07,Extra,11
+Platinum 1,Hoops,44.17,Extra,11
+Platinum 2,Hoops,29.04,Extra,11
+Platinum 3,Hoops,17.77,Extra,11
+Diamond 1,Hoops,10.41,Extra,11
+Diamond 2,Hoops,5.93,Extra,11
+Diamond 3,Hoops,3.35,Extra,11
+Champion 1,Hoops,1.88,Extra,11
+Champion 2,Hoops,1.02,Extra,11
+Champion 3,Hoops,0.53,Extra,11
+GC 1,Hoops,0.23,Extra,11
+GC 2,Hoops,0.07,Extra,11
+GC 3,Hoops,0.02,Extra,11
+SL,Hoops,0.01,Extra,11
+Bronze 1,Snow Day,100.03,Extra,11
+Bronze 2,Snow Day,99.96,Extra,11
+Bronze 3,Snow Day,99.72,Extra,11
+Silver 1,Snow Day,98.88,Extra,11
+Silver 2,Snow Day,97.08,Extra,11
+Silver 3,Snow Day,93.37,Extra,11
+Gold 1,Snow Day,86.75,Extra,11
+Gold 2,Snow Day,76.65,Extra,11
+Gold 3,Snow Day,63.75,Extra,11
+Platinum 1,Snow Day,49.71,Extra,11
+Platinum 2,Snow Day,36.52,Extra,11
+Platinum 3,Snow Day,25.36,Extra,11
+Diamond 1,Snow Day,16.77,Extra,11
+Diamond 2,Snow Day,10.5,Extra,11
+Diamond 3,Snow Day,6.3,Extra,11
+Champion 1,Snow Day,3.63,Extra,11
+Champion 2,Snow Day,1.97,Extra,11
+Champion 3,Snow Day,1.04,Extra,11
+GC 1,Snow Day,0.49,Extra,11
+GC 2,Snow Day,0.19,Extra,11
+GC 3,Snow Day,0.03,Extra,11
+SL,Snow Day,0.02,Extra,11
+Bronze 1,Solo Duel,99.98,Standard,10
+Bronze 2,Solo Duel,99.91,Standard,10
+Bronze 3,Solo Duel,99.54,Standard,10
+Silver 1,Solo Duel,98.21,Standard,10
+Silver 2,Solo Duel,94.98,Standard,10
+Silver 3,Solo Duel,88.85,Standard,10
+Gold 1,Solo Duel,79.41,Standard,10
+Gold 2,Solo Duel,66.47,Standard,10
+Gold 3,Solo Duel,51.58,Standard,10
+Platinum 1,Solo Duel,36.73,Standard,10
+Platinum 2,Solo Duel,23.22,Standard,10
+Platinum 3,Solo Duel,13.44,Standard,10
+Diamond 1,Solo Duel,7.29,Standard,10
+Diamond 2,Solo Duel,3.68,Standard,10
+Diamond 3,Solo Duel,1.81,Standard,10
+Champion 1,Solo Duel,0.88,Standard,10
+Champion 2,Solo Duel,0.41,Standard,10
+Champion 3,Solo Duel,0.19,Standard,10
+Grand Champion 1,Solo Duel,0.09,Standard,10
+Grand Champion 2,Solo Duel,0.04,Standard,10
+Grand Champion 3,Solo Duel,0.02,Standard,10
+Supersonic Legend,Solo Duel,0.01,Standard,10
+Bronze 1,Standard,99.98,Standard,10
+Bronze 2,Standard,99.87,Standard,10
+Bronze 3,Standard,99.49,Standard,10
+Silver 1,Standard,98.44,Standard,10
+Silver 2,Standard,95.98,Standard,10
+Silver 3,Standard,91.1,Standard,10
+Gold 1,Standard,83.17,Standard,10
+Gold 2,Standard,72.16,Standard,10
+Gold 3,Standard,59.62,Standard,10
+Platinum 1,Standard,47.5,Standard,10
+Platinum 2,Standard,36.41,Standard,10
+Platinum 3,Standard,27.36,Standard,10
+Diamond 1,Standard,20.25,Standard,10
+Diamond 2,Standard,13.04,Standard,10
+Diamond 3,Standard,8.17,Standard,10
+Champion 1,Standard,4.98,Standard,10
+Champion 2,Standard,2.18,Standard,10
+Champion 3,Standard,0.96,Standard,10
+Grand Champion 1,Standard,0.4,Standard,10
+Grand Champion 2,Standard,0.12,Standard,10
+Grand Champion 3,Standard,0.03,Standard,10
+Supersonic Legend,Standard,0.01,Standard,10
+Bronze 1,Doubles,100.01,Standard,10
+Bronze 2,Doubles,99.99,Standard,10
+Bronze 3,Doubles,99.91,Standard,10
+Silver 1,Doubles,99.67,Standard,10
+Silver 2,Doubles,99.06,Standard,10
+Silver 3,Doubles,97.77,Standard,10
+Gold 1,Doubles,95.33,Standard,10
+Gold 2,Doubles,91.14,Standard,10
+Gold 3,Doubles,84.84,Standard,10
+Platinum 1,Doubles,76.5,Standard,10
+Platinum 2,Doubles,66.07,Standard,10
+Platinum 3,Doubles,54.79,Standard,10
+Diamond 1,Doubles,43.92,Standard,10
+Diamond 2,Doubles,30.44,Standard,10
+Diamond 3,Doubles,20.39,Standard,10
+Champion 1,Doubles,13.3,Standard,10
+Champion 2,Doubles,6.08,Standard,10
+Champion 3,Doubles,2.7,Standard,10
+Grand Champion 1,Doubles,1.13,Standard,10
+Grand Champion 2,Doubles,0.28,Standard,10
+Grand Champion 3,Doubles,0.07,Standard,10
+Supersonic Legend,Doubles,0.02,Standard,10
+Bronze 1,Rumble,100.01,Extra,10
+Bronze 2,Rumble,99.97,Extra,10
+Bronze 3,Rumble,99.78,Extra,10
+Silver 1,Rumble,99.21,Extra,10
+Silver 2,Rumble,97.87,Extra,10
+Silver 3,Rumble,94.96,Extra,10
+Gold 1,Rumble,89.61,Extra,10
+Gold 2,Rumble,80.68,Extra,10
+Gold 3,Rumble,67.8,Extra,10
+Platinum 1,Rumble,52.22,Extra,10
+Platinum 2,Rumble,36.2,Extra,10
+Platinum 3,Rumble,22.97,Extra,10
+Diamond 1,Rumble,13.66,Extra,10
+Diamond 2,Rumble,7.73,Extra,10
+Diamond 3,Rumble,4.3,Extra,10
+Champion 1,Rumble,2.38,Extra,10
+Champion 2,Rumble,1.27,Extra,10
+Champion 3,Rumble,0.68,Extra,10
+Grand Champion 1,Rumble,0.29,Extra,10
+Grand Champion 2,Rumble,0.09,Extra,10
+Grand Champion 3,Rumble,0.02,Extra,10
+Supersonic Legend,Rumble,0.01,Extra,10
+Bronze 1,Dropshot,100.0,Extra,10
+Bronze 2,Dropshot,98.96,Extra,10
+Bronze 3,Dropshot,96.05,Extra,10
+Silver 1,Dropshot,89.51,Extra,10
+Silver 2,Dropshot,77.61,Extra,10
+Silver 3,Dropshot,63.94,Extra,10
+Gold 1,Dropshot,48.84,Extra,10
+Gold 2,Dropshot,34.6,Extra,10
+Gold 3,Dropshot,22.92,Extra,10
+Platinum 1,Dropshot,14.33,Extra,10
+Platinum 2,Dropshot,8.47,Extra,10
+Platinum 3,Dropshot,4.8,Extra,10
+Diamond 1,Dropshot,2.6,Extra,10
+Diamond 2,Dropshot,1.34,Extra,10
+Diamond 3,Dropshot,0.66,Extra,10
+Champion 1,Dropshot,0.3,Extra,10
+Champion 2,Dropshot,0.13,Extra,10
+Champion 3,Dropshot,0.05,Extra,10
+Grand Champion 1,Dropshot,0.01,Extra,10
+Grand Champion 2,Dropshot,0.0,Extra,10
+Grand Champion 3,Dropshot,0.0,Extra,10
+Supersonic Legend,Dropshot,0.0,Extra,10
+Bronze 1,Hoops,100.01,Extra,10
+Bronze 2,Hoops,100.0,Extra,10
+Bronze 3,Hoops,99.96,Extra,10
+Silver 1,Hoops,99.74,Extra,10
+Silver 2,Hoops,99.04,Extra,10
+Silver 3,Hoops,97.19,Extra,10
+Gold 1,Hoops,92.92,Extra,10
+Gold 2,Hoops,84.88,Extra,10
+Gold 3,Hoops,72.25,Extra,10
+Platinum 1,Hoops,56.37,Extra,10
+Platinum 2,Hoops,39.78,Extra,10
+Platinum 3,Hoops,25.79,Extra,10
+Diamond 1,Hoops,15.68,Extra,10
+Diamond 2,Hoops,9.13,Extra,10
+Diamond 3,Hoops,5.22,Extra,10
+Champion 1,Hoops,2.95,Extra,10
+Champion 2,Hoops,1.64,Extra,10
+Champion 3,Hoops,0.89,Extra,10
+Grand Champion 1,Hoops,0.41,Extra,10
+Grand Champion 2,Hoops,0.14,Extra,10
+Grand Champion 3,Hoops,0.04,Extra,10
+Supersonic Legend,Hoops,0.02,Extra,10
+Bronze 1,Snow Day,100.0,Extra,10
+Bronze 2,Snow Day,97.77,Extra,10
+Bronze 3,Snow Day,93.55,Extra,10
+Silver 1,Snow Day,85.22,Extra,10
+Silver 2,Snow Day,74.46,Extra,10
+Silver 3,Snow Day,61.0,Extra,10
+Gold 1,Snow Day,46.67,Extra,10
+Gold 2,Snow Day,33.49,Extra,10
+Gold 3,Snow Day,22.68,Extra,10
+Platinum 1,Snow Day,14.54,Extra,10
+Platinum 2,Snow Day,8.86,Extra,10
+Platinum 3,Snow Day,5.16,Extra,10
+Diamond 1,Snow Day,2.89,Extra,10
+Diamond 2,Snow Day,1.54,Extra,10
+Diamond 3,Snow Day,0.78,Extra,10
+Champion 1,Snow Day,0.38,Extra,10
+Champion 2,Snow Day,0.18,Extra,10
+Champion 3,Snow Day,0.08,Extra,10
+Grand Champion 1,Snow Day,0.03,Extra,10
+Grand Champion 2,Snow Day,0.01,Extra,10
+Grand Champion 3,Snow Day,0.0,Extra,10
+Supersonic Legend,Snow Day,0.0,Extra,10
+Bronze 1,Solo Duel,100.0,Standard,9
+Bronze 2,Solo Duel,99.94,Standard,9
+Bronze 3,Solo Duel,99.61,Standard,9
+Silver 1,Solo Duel,98.38,Standard,9
+Silver 2,Solo Duel,95.31,Standard,9
+Silver 3,Solo Duel,89.33,Standard,9
+Gold 1,Solo Duel,79.98,Standard,9
+Gold 2,Solo Duel,67.04,Standard,9
+Gold 3,Solo Duel,52.18,Standard,9
+Platinum 1,Solo Duel,37.42,Standard,9
+Platinum 2,Solo Duel,23.87,Standard,9
+Platinum 3,Solo Duel,13.99,Standard,9
+Diamond 1,Solo Duel,7.68,Standard,9
+Diamond 2,Solo Duel,3.92,Standard,9
+Diamond 3,Solo Duel,1.96,Standard,9
+Champion 1,Solo Duel,0.95,Standard,9
+Champion 2,Solo Duel,0.44,Standard,9
+Champion 3,Solo Duel,0.2,Standard,9
+Grand Champion 1,Solo Duel,0.09,Standard,9
+Grand Champion 2,Solo Duel,0.04,Standard,9
+Grand Champion 3,Solo Duel,0.02,Standard,9
+Supersonic Legend,Solo Duel,0.01,Standard,9
+Bronze 1,Standard,99.99,Standard,9
+Bronze 2,Standard,99.87,Standard,9
+Bronze 3,Standard,99.47,Standard,9
+Silver 1,Standard,98.36,Standard,9
+Silver 2,Standard,95.79,Standard,9
+Silver 3,Standard,90.76,Standard,9
+Gold 1,Standard,82.66,Standard,9
+Gold 2,Standard,71.5,Standard,9
+Gold 3,Standard,58.9,Standard,9
+Platinum 1,Standard,46.85,Standard,9
+Platinum 2,Standard,35.83,Standard,9
+Platinum 3,Standard,26.92,Standard,9
+Diamond 1,Standard,19.93,Standard,9
+Diamond 2,Standard,12.83,Standard,9
+Diamond 3,Standard,8.06,Standard,9
+Champion 1,Standard,4.92,Standard,9
+Champion 2,Standard,2.16,Standard,9
+Champion 3,Standard,0.95,Standard,9
+Grand Champion 1,Standard,0.4,Standard,9
+Grand Champion 2,Standard,0.12,Standard,9
+Grand Champion 3,Standard,0.03,Standard,9
+Supersonic Legend,Standard,0.01,Standard,9
+Bronze 1,Doubles,100.0,Standard,9
+Bronze 2,Doubles,99.97,Standard,9
+Bronze 3,Doubles,99.87,Standard,9
+Silver 1,Doubles,99.58,Standard,9
+Silver 2,Doubles,98.88,Standard,9
+Silver 3,Doubles,97.44,Standard,9
+Gold 1,Doubles,94.77,Standard,9
+Gold 2,Doubles,90.21,Standard,9
+Gold 3,Doubles,83.44,Standard,9
+Platinum 1,Doubles,74.59,Standard,9
+Platinum 2,Doubles,63.64,Standard,9
+Platinum 3,Doubles,52.17,Standard,9
+Diamond 1,Doubles,41.41,Standard,9
+Diamond 2,Doubles,28.42,Standard,9
+Diamond 3,Doubles,18.93,Standard,9
+Champion 1,Doubles,12.32,Standard,9
+Champion 2,Doubles,5.56,Standard,9
+Champion 3,Doubles,2.43,Standard,9
+Grand Champion 1,Doubles,1.0,Standard,9
+Grand Champion 2,Doubles,0.24,Standard,9
+Grand Champion 3,Doubles,0.06,Standard,9
+Supersonic Legend,Doubles,0.02,Standard,9
+Bronze 1,Rumble,100.0,Extra,9
+Bronze 2,Rumble,99.96,Extra,9
+Bronze 3,Rumble,99.77,Extra,9
+Silver 1,Rumble,99.18,Extra,9
+Silver 2,Rumble,97.8,Extra,9
+Silver 3,Rumble,94.82,Extra,9
+Gold 1,Rumble,89.36,Extra,9
+Gold 2,Rumble,80.3,Extra,9
+Gold 3,Rumble,67.38,Extra,9
+Platinum 1,Rumble,51.94,Extra,9
+Platinum 2,Rumble,36.08,Extra,9
+Platinum 3,Rumble,22.98,Extra,9
+Diamond 1,Rumble,13.72,Extra,9
+Diamond 2,Rumble,7.78,Extra,9
+Diamond 3,Rumble,4.34,Extra,9
+Champion 1,Rumble,2.39,Extra,9
+Champion 2,Rumble,1.28,Extra,9
+Champion 3,Rumble,0.68,Extra,9
+Grand Champion 1,Rumble,0.29,Extra,9
+Grand Champion 2,Rumble,0.09,Extra,9
+Grand Champion 3,Rumble,0.02,Extra,9
+Supersonic Legend,Rumble,0.01,Extra,9
+Bronze 1,Dropshot,99.99,Extra,9
+Bronze 2,Dropshot,99.19,Extra,9
+Bronze 3,Dropshot,96.9,Extra,9
+Silver 1,Dropshot,91.53,Extra,9
+Silver 2,Dropshot,81.24,Extra,9
+Silver 3,Dropshot,68.64,Extra,9
+Gold 1,Dropshot,53.75,Extra,9
+Gold 2,Dropshot,38.92,Extra,9
+Gold 3,Dropshot,26.17,Extra,9
+Platinum 1,Dropshot,16.51,Extra,9
+Platinum 2,Dropshot,9.84,Extra,9
+Platinum 3,Dropshot,5.6,Extra,9
+Diamond 1,Dropshot,3.04,Extra,9
+Diamond 2,Dropshot,1.59,Extra,9
+Diamond 3,Dropshot,0.79,Extra,9
+Champion 1,Dropshot,0.38,Extra,9
+Champion 2,Dropshot,0.16,Extra,9
+Champion 3,Dropshot,0.07,Extra,9
+Grand Champion 1,Dropshot,0.03,Extra,9
+Grand Champion 2,Dropshot,0.01,Extra,9
+Grand Champion 3,Dropshot,0.0,Extra,9
+Supersonic Legend,Dropshot,0.0,Extra,9
+Bronze 1,Hoops,99.99,Extra,9
+Bronze 2,Hoops,99.98,Extra,9
+Bronze 3,Hoops,99.93,Extra,9
+Silver 1,Hoops,99.68,Extra,9
+Silver 2,Hoops,98.91,Extra,9
+Silver 3,Hoops,96.94,Extra,9
+Gold 1,Hoops,92.47,Extra,9
+Gold 2,Hoops,84.26,Extra,9
+Gold 3,Hoops,71.65,Extra,9
+Platinum 1,Hoops,56.02,Extra,9
+Platinum 2,Hoops,39.75,Extra,9
+Platinum 3,Hoops,25.95,Extra,9
+Diamond 1,Hoops,15.91,Extra,9
+Diamond 2,Hoops,9.33,Extra,9
+Diamond 3,Hoops,5.38,Extra,9
+Champion 1,Hoops,3.05,Extra,9
+Champion 2,Hoops,1.7,Extra,9
+Champion 3,Hoops,0.93,Extra,9
+Grand Champion 1,Hoops,0.44,Extra,9
+Grand Champion 2,Hoops,0.15,Extra,9
+Grand Champion 3,Hoops,0.05,Extra,9
+Supersonic Legend,Hoops,0.03,Extra,9
+Bronze 1,Snow Day,100.01,Extra,9
+Bronze 2,Snow Day,98.26,Extra,9
+Bronze 3,Snow Day,94.84,Extra,9
+Silver 1,Snow Day,87.87,Extra,9
+Silver 2,Snow Day,78.3,Extra,9
+Silver 3,Snow Day,65.74,Extra,9
+Gold 1,Snow Day,51.45,Extra,9
+Gold 2,Snow Day,37.55,Extra,9
+Gold 3,Snow Day,25.68,Extra,9
+Platinum 1,Snow Day,16.59,Extra,9
+Platinum 2,Snow Day,10.14,Extra,9
+Platinum 3,Snow Day,5.91,Extra,9
+Diamond 1,Snow Day,3.33,Extra,9
+Diamond 2,Snow Day,1.79,Extra,9
+Diamond 3,Snow Day,0.93,Extra,9
+Champion 1,Snow Day,0.46,Extra,9
+Champion 2,Snow Day,0.23,Extra,9
+Champion 3,Snow Day,0.11,Extra,9
+Grand Champion 1,Snow Day,0.05,Extra,9
+Grand Champion 2,Snow Day,0.02,Extra,9
+Grand Champion 3,Snow Day,0.01,Extra,9
+Supersonic Legend,Snow Day,0.01,Extra,9
+Bronze 1,Solo Duel,99.98,Standard,8
+Bronze 2,Solo Duel,99.94,Standard,8
+Bronze 3,Solo Duel,99.73,Standard,8
+Silver 1,Solo Duel,98.85,Standard,8
+Silver 2,Solo Duel,96.42,Standard,8
+Silver 3,Solo Duel,91.28,Standard,8
+Gold 1,Solo Duel,82.77,Standard,8
+Gold 2,Solo Duel,70.55,Standard,8
+Gold 3,Solo Duel,55.88,Standard,8
+Platinum 1,Solo Duel,40.78,Standard,8
+Platinum 2,Solo Duel,26.5,Standard,8
+Platinum 3,Solo Duel,15.83,Standard,8
+Diamond 1,Solo Duel,8.81,Standard,8
+Diamond 2,Solo Duel,4.58,Standard,8
+Diamond 3,Solo Duel,2.32,Standard,8
+Champion 1,Solo Duel,1.13,Standard,8
+Champion 2,Solo Duel,0.53,Standard,8
+Champion 3,Solo Duel,0.25,Standard,8
+Grand Champion 1,Solo Duel,0.12,Standard,8
+Grand Champion 2,Solo Duel,0.06,Standard,8
+Grand Champion 3,Solo Duel,0.03,Standard,8
+Supersonic Legend,Solo Duel,0.02,Standard,8
+Bronze 1,Standard,99.99,Standard,8
+Bronze 2,Standard,99.89,Standard,8
+Bronze 3,Standard,99.54,Standard,8
+Silver 1,Standard,98.55,Standard,8
+Silver 2,Standard,96.24,Standard,8
+Silver 3,Standard,91.59,Standard,8
+Gold 1,Standard,83.92,Standard,8
+Gold 2,Standard,73.21,Standard,8
+Gold 3,Standard,60.88,Standard,8
+Platinum 1,Standard,48.85,Standard,8
+Platinum 2,Standard,37.69,Standard,8
+Platinum 3,Standard,28.57,Standard,8
+Diamond 1,Standard,21.33,Standard,8
+Diamond 2,Standard,13.91,Standard,8
+Diamond 3,Standard,8.85,Standard,8
+Champion 1,Standard,5.47,Standard,8
+Champion 2,Standard,2.44,Standard,8
+Champion 3,Standard,1.09,Standard,8
+Grand Champion 1,Standard,0.46,Standard,8
+Grand Champion 2,Standard,0.14,Standard,8
+Grand Champion 3,Standard,0.04,Standard,8
+Supersonic Legend,Standard,0.01,Standard,8
+Bronze 1,Doubles,100.01,Standard,8
+Bronze 2,Doubles,100.0,Standard,8
+Bronze 3,Doubles,99.95,Standard,8
+Silver 1,Doubles,99.8,Standard,8
+Silver 2,Doubles,99.38,Standard,8
+Silver 3,Doubles,98.39,Standard,8
+Gold 1,Doubles,96.28,Standard,8
+Gold 2,Doubles,92.31,Standard,8
+Gold 3,Doubles,85.83,Standard,8
+Platinum 1,Doubles,76.79,Standard,8
+Platinum 2,Doubles,65.44,Standard,8
+Platinum 3,Doubles,53.29,Standard,8
+Diamond 1,Doubles,41.91,Standard,8
+Diamond 2,Doubles,28.56,Standard,8
+Diamond 3,Doubles,18.87,Standard,8
+Champion 1,Doubles,12.17,Standard,8
+Champion 2,Doubles,5.47,Standard,8
+Champion 3,Doubles,2.36,Standard,8
+Grand Champion 1,Doubles,0.95,Standard,8
+Grand Champion 2,Doubles,0.22,Standard,8
+Grand Champion 3,Doubles,0.05,Standard,8
+Supersonic Legend,Doubles,0.01,Standard,8
+Bronze 1,Rumble,100.04,Extra,8
+Bronze 2,Rumble,100.0,Extra,8
+Bronze 3,Rumble,99.81,Extra,8
+Silver 1,Rumble,99.24,Extra,8
+Silver 2,Rumble,97.92,Extra,8
+Silver 3,Rumble,95.09,Extra,8
+Gold 1,Rumble,89.9,Extra,8
+Gold 2,Rumble,81.27,Extra,8
+Gold 3,Rumble,68.82,Extra,8
+Platinum 1,Rumble,53.76,Extra,8
+Platinum 2,Rumble,38.01,Extra,8
+Platinum 3,Rumble,24.68,Extra,8
+Diamond 1,Rumble,15.01,Extra,8
+Diamond 2,Rumble,8.65,Extra,8
+Diamond 3,Rumble,4.9,Extra,8
+Champion 1,Rumble,2.72,Extra,8
+Champion 2,Rumble,1.47,Extra,8
+Champion 3,Rumble,0.79,Extra,8
+Grand Champion 1,Rumble,0.34,Extra,8
+Grand Champion 2,Rumble,0.11,Extra,8
+Grand Champion 3,Rumble,0.03,Extra,8
+Supersonic Legend,Rumble,0.01,Extra,8
+Bronze 1,Dropshot,99.98,Extra,8
+Bronze 2,Dropshot,99.4,Extra,8
+Bronze 3,Dropshot,97.67,Extra,8
+Silver 1,Dropshot,93.45,Extra,8
+Silver 2,Dropshot,84.95,Extra,8
+Silver 3,Dropshot,73.86,Extra,8
+Gold 1,Dropshot,59.83,Extra,8
+Gold 2,Dropshot,44.81,Extra,8
+Gold 3,Dropshot,31.09,Extra,8
+Platinum 1,Dropshot,20.13,Extra,8
+Platinum 2,Dropshot,12.28,Extra,8
+Platinum 3,Dropshot,7.11,Extra,8
+Diamond 1,Dropshot,3.95,Extra,8
+Diamond 2,Dropshot,2.09,Extra,8
+Diamond 3,Dropshot,1.07,Extra,8
+Champion 1,Dropshot,0.51,Extra,8
+Champion 2,Dropshot,0.23,Extra,8
+Champion 3,Dropshot,0.1,Extra,8
+Grand Champion 1,Dropshot,0.03,Extra,8
+Grand Champion 2,Dropshot,0.01,Extra,8
+Grand Champion 3,Dropshot,0.0,Extra,8
+Supersonic Legend,Dropshot,0.0,Extra,8
+Bronze 1,Hoops,100.0,Extra,8
+Bronze 2,Hoops,99.99,Extra,8
+Bronze 3,Hoops,99.93,Extra,8
+Silver 1,Hoops,99.66,Extra,8
+Silver 2,Hoops,98.85,Extra,8
+Silver 3,Hoops,96.83,Extra,8
+Gold 1,Hoops,92.38,Extra,8
+Gold 2,Hoops,84.32,Extra,8
+Gold 3,Hoops,72.04,Extra,8
+Platinum 1,Hoops,56.86,Extra,8
+Platinum 2,Hoops,40.89,Extra,8
+Platinum 3,Hoops,27.15,Extra,8
+Diamond 1,Hoops,16.92,Extra,8
+Diamond 2,Hoops,10.07,Extra,8
+Diamond 3,Hoops,5.86,Extra,8
+Champion 1,Hoops,3.34,Extra,8
+Champion 2,Hoops,1.87,Extra,8
+Champion 3,Hoops,1.03,Extra,8
+Grand Champion 1,Hoops,0.48,Extra,8
+Grand Champion 2,Hoops,0.16,Extra,8
+Grand Champion 3,Hoops,0.05,Extra,8
+Supersonic Legend,Hoops,0.03,Extra,8
+Bronze 1,Snow Day,100.01,Extra,8
+Bronze 2,Snow Day,98.69,Extra,8
+Bronze 3,Snow Day,96.01,Extra,8
+Silver 1,Snow Day,90.39,Extra,8
+Silver 2,Snow Day,82.3,Extra,8
+Silver 3,Snow Day,71.02,Extra,8
+Gold 1,Snow Day,57.28,Extra,8
+Gold 2,Snow Day,43.02,Extra,8
+Gold 3,Snow Day,30.2,Extra,8
+Platinum 1,Snow Day,19.83,Extra,8
+Platinum 2,Snow Day,12.32,Extra,8
+Platinum 3,Snow Day,7.31,Extra,8
+Diamond 1,Snow Day,4.16,Extra,8
+Diamond 2,Snow Day,2.26,Extra,8
+Diamond 3,Snow Day,1.19,Extra,8
+Champion 1,Snow Day,0.6,Extra,8
+Champion 2,Snow Day,0.28,Extra,8
+Champion 3,Snow Day,0.13,Extra,8
+Grand Champion 1,Snow Day,0.05,Extra,8
+Grand Champion 2,Snow Day,0.02,Extra,8
+Grand Champion 3,Snow Day,0.01,Extra,8
+Supersonic Legend,Snow Day,0.01,Extra,8
+Bronze 1,Solo Duel,100.0,Standard,7
+Bronze 2,Solo Duel,99.97,Standard,7
+Bronze 3,Solo Duel,99.77,Standard,7
+Silver 1,Solo Duel,98.92,Standard,7
+Silver 2,Solo Duel,96.54,Standard,7
+Silver 3,Solo Duel,91.51,Standard,7
+Gold 1,Solo Duel,83.19,Standard,7
+Gold 2,Solo Duel,71.24,Standard,7
+Gold 3,Solo Duel,56.88,Standard,7
+Platinum 1,Solo Duel,42.03,Standard,7
+Platinum 2,Solo Duel,27.81,Standard,7
+Platinum 3,Solo Duel,16.99,Standard,7
+Diamond 1,Solo Duel,9.69,Standard,7
+Diamond 2,Solo Duel,5.17,Standard,7
+Diamond 3,Solo Duel,2.69,Standard,7
+Champion 1,Solo Duel,1.36,Standard,7
+Champion 2,Solo Duel,0.66,Standard,7
+Champion 3,Solo Duel,0.32,Standard,7
+Grand Champion 1,Solo Duel,0.16,Standard,7
+Grand Champion 2,Solo Duel,0.08,Standard,7
+Grand Champion 3,Solo Duel,0.04,Standard,7
+Supersonic Legend,Solo Duel,0.02,Standard,7
+Bronze 1,Standard,99.98,Standard,7
+Bronze 2,Standard,99.88,Standard,7
+Bronze 3,Standard,99.52,Standard,7
+Silver 1,Standard,98.5,Standard,7
+Silver 2,Standard,96.14,Standard,7
+Silver 3,Standard,91.43,Standard,7
+Gold 1,Standard,83.75,Standard,7
+Gold 2,Standard,73.09,Standard,7
+Gold 3,Standard,60.9,Standard,7
+Platinum 1,Standard,49.07,Standard,7
+Platinum 2,Standard,38.07,Standard,7
+Platinum 3,Standard,29.05,Standard,7
+Diamond 1,Standard,21.85,Standard,7
+Diamond 2,Standard,14.39,Standard,7
+Diamond 3,Standard,9.25,Standard,7
+Champion 1,Standard,5.77,Standard,7
+Champion 2,Standard,2.61,Standard,7
+Champion 3,Standard,1.17,Standard,7
+Grand Champion 1,Standard,0.5,Standard,7
+Grand Champion 2,Standard,0.15,Standard,7
+Grand Champion 3,Standard,0.04,Standard,7
+Supersonic Legend,Standard,0.01,Standard,7
+Bronze 1,Doubles,99.98,Standard,7
+Bronze 2,Doubles,99.97,Standard,7
+Bronze 3,Doubles,99.93,Standard,7
+Silver 1,Doubles,99.79,Standard,7
+Silver 2,Doubles,99.39,Standard,7
+Silver 3,Doubles,98.42,Standard,7
+Gold 1,Doubles,96.27,Standard,7
+Gold 2,Doubles,92.11,Standard,7
+Gold 3,Doubles,85.21,Standard,7
+Platinum 1,Doubles,75.53,Standard,7
+Platinum 2,Doubles,63.65,Standard,7
+Platinum 3,Doubles,51.31,Standard,7
+Diamond 1,Doubles,40.18,Standard,7
+Diamond 2,Doubles,27.39,Standard,7
+Diamond 3,Doubles,18.18,Standard,7
+Champion 1,Doubles,11.78,Standard,7
+Champion 2,Doubles,5.33,Standard,7
+Champion 3,Doubles,2.32,Standard,7
+Grand Champion 1,Doubles,0.92,Standard,7
+Grand Champion 2,Doubles,0.2,Standard,7
+Grand Champion 3,Doubles,0.04,Standard,7
+Supersonic Legend,Doubles,0.01,Standard,7
+Bronze 1,Rumble,99.99,Extra,7
+Bronze 2,Rumble,99.95,Extra,7
+Bronze 3,Rumble,99.75,Extra,7
+Silver 1,Rumble,99.16,Extra,7
+Silver 2,Rumble,97.83,Extra,7
+Silver 3,Rumble,94.99,Extra,7
+Gold 1,Rumble,89.82,Extra,7
+Gold 2,Rumble,81.25,Extra,7
+Gold 3,Rumble,68.98,Extra,7
+Platinum 1,Rumble,54.2,Extra,7
+Platinum 2,Rumble,38.68,Extra,7
+Platinum 3,Rumble,25.41,Extra,7
+Diamond 1,Rumble,15.68,Extra,7
+Diamond 2,Rumble,9.13,Extra,7
+Diamond 3,Rumble,5.23,Extra,7
+Champion 1,Rumble,2.92,Extra,7
+Champion 2,Rumble,1.58,Extra,7
+Champion 3,Rumble,0.85,Extra,7
+Grand Champion 1,Rumble,0.37,Extra,7
+Grand Champion 2,Rumble,0.12,Extra,7
+Grand Champion 3,Rumble,0.03,Extra,7
+Supersonic Legend,Rumble,0.01,Extra,7
+Bronze 1,Dropshot,100.0,Extra,7
+Bronze 2,Dropshot,99.57,Extra,7
+Bronze 3,Dropshot,98.25,Extra,7
+Silver 1,Dropshot,94.88,Extra,7
+Silver 2,Dropshot,87.8,Extra,7
+Silver 3,Dropshot,78.05,Extra,7
+Gold 1,Dropshot,64.99,Extra,7
+Gold 2,Dropshot,50.17,Extra,7
+Gold 3,Dropshot,35.83,Extra,7
+Platinum 1,Dropshot,23.82,Extra,7
+Platinum 2,Dropshot,14.81,Extra,7
+Platinum 3,Dropshot,8.77,Extra,7
+Diamond 1,Dropshot,4.95,Extra,7
+Diamond 2,Dropshot,2.67,Extra,7
+Diamond 3,Dropshot,1.38,Extra,7
+Champion 1,Dropshot,0.69,Extra,7
+Champion 2,Dropshot,0.32,Extra,7
+Champion 3,Dropshot,0.14,Extra,7
+Grand Champion 1,Dropshot,0.05,Extra,7
+Grand Champion 2,Dropshot,0.01,Extra,7
+Grand Champion 3,Dropshot,0.0,Extra,7
+Supersonic Legend,Dropshot,0.0,Extra,7
+Bronze 1,Hoops,100.0,Extra,7
+Bronze 2,Hoops,99.99,Extra,7
+Bronze 3,Hoops,99.94,Extra,7
+Silver 1,Hoops,99.7,Extra,7
+Silver 2,Hoops,98.97,Extra,7
+Silver 3,Hoops,97.08,Extra,7
+Gold 1,Hoops,92.82,Extra,7
+Gold 2,Hoops,84.96,Extra,7
+Gold 3,Hoops,72.88,Extra,7
+Platinum 1,Hoops,57.89,Extra,7
+Platinum 2,Hoops,41.99,Extra,7
+Platinum 3,Hoops,28.18,Extra,7
+Diamond 1,Hoops,17.79,Extra,7
+Diamond 2,Hoops,10.72,Extra,7
+Diamond 3,Hoops,6.33,Extra,7
+Champion 1,Hoops,3.66,Extra,7
+Champion 2,Hoops,2.07,Extra,7
+Champion 3,Hoops,1.16,Extra,7
+Grand Champion 1,Hoops,0.55,Extra,7
+Grand Champion 2,Hoops,0.18,Extra,7
+Grand Champion 3,Hoops,0.05,Extra,7
+Supersonic Legend,Hoops,0.03,Extra,7
+Bronze 1,Snow Day,100.0,Extra,7
+Bronze 2,Snow Day,98.97,Extra,7
+Bronze 3,Snow Day,96.81,Extra,7
+Silver 1,Snow Day,92.18,Extra,7
+Silver 2,Snow Day,85.36,Extra,7
+Silver 3,Snow Day,75.26,Extra,7
+Gold 1,Snow Day,62.42,Extra,7
+Gold 2,Snow Day,48.2,Extra,7
+Gold 3,Snow Day,34.67,Extra,7
+Platinum 1,Snow Day,23.36,Extra,7
+Platinum 2,Snow Day,14.75,Extra,7
+Platinum 3,Snow Day,8.85,Extra,7
+Diamond 1,Snow Day,5.12,Extra,7
+Diamond 2,Snow Day,2.83,Extra,7
+Diamond 3,Snow Day,1.51,Extra,7
+Champion 1,Snow Day,0.78,Extra,7
+Champion 2,Snow Day,0.39,Extra,7
+Champion 3,Snow Day,0.18,Extra,7
+Grand Champion 1,Snow Day,0.07,Extra,7
+Grand Champion 2,Snow Day,0.02,Extra,7
+Grand Champion 3,Snow Day,0.01,Extra,7
+Supersonic Legend,Snow Day,0.01,Extra,7
+Bronze 1,Solo Duel,100.0,Standard,6
+Bronze 2,Solo Duel,99.96,Standard,6
+Bronze 3,Solo Duel,99.7,Standard,6
+Silver 1,Solo Duel,98.67,Standard,6
+Silver 2,Solo Duel,95.99,Standard,6
+Silver 3,Solo Duel,90.58,Standard,6
+Gold 1,Solo Duel,82.0,Standard,6
+Gold 2,Solo Duel,70.0,Standard,6
+Gold 3,Solo Duel,55.99,Standard,6
+Platinum 1,Solo Duel,41.77,Standard,6
+Platinum 2,Solo Duel,28.05,Standard,6
+Platinum 3,Solo Duel,17.53,Standard,6
+Diamond 1,Solo Duel,10.28,Standard,6
+Diamond 2,Solo Duel,5.6,Standard,6
+Diamond 3,Solo Duel,2.99,Standard,6
+Champion 1,Solo Duel,1.55,Standard,6
+Champion 2,Solo Duel,0.75,Standard,6
+Champion 3,Solo Duel,0.36,Standard,6
+Grand Champion 1,Solo Duel,0.17,Standard,6
+Grand Champion 2,Solo Duel,0.08,Standard,6
+Grand Champion 3,Solo Duel,0.04,Standard,6
+Supersonic Legend,Solo Duel,0.02,Standard,6
+Bronze 1,Standard,99.99,Standard,6
+Bronze 2,Standard,99.86,Standard,6
+Bronze 3,Standard,99.44,Standard,6
+Silver 1,Standard,98.28,Standard,6
+Silver 2,Standard,95.67,Standard,6
+Silver 3,Standard,90.62,Standard,6
+Gold 1,Standard,82.62,Standard,6
+Gold 2,Standard,71.79,Standard,6
+Gold 3,Standard,59.67,Standard,6
+Platinum 1,Standard,48.11,Standard,6
+Platinum 2,Standard,37.38,Standard,6
+Platinum 3,Standard,28.61,Standard,6
+Diamond 1,Standard,21.62,Standard,6
+Diamond 2,Standard,14.32,Standard,6
+Diamond 3,Standard,9.28,Standard,6
+Champion 1,Standard,5.84,Standard,6
+Champion 2,Standard,2.67,Standard,6
+Champion 3,Standard,1.22,Standard,6
+Grand Champion 1,Standard,0.53,Standard,6
+Grand Champion 2,Standard,0.16,Standard,6
+Grand Champion 3,Standard,0.04,Standard,6
+Supersonic Legend,Standard,0.01,Standard,6
+Bronze 1,Doubles,100.0,Standard,6
+Bronze 2,Doubles,99.98,Standard,6
+Bronze 3,Doubles,99.92,Standard,6
+Silver 1,Doubles,99.72,Standard,6
+Silver 2,Doubles,99.15,Standard,6
+Silver 3,Doubles,97.8,Standard,6
+Gold 1,Doubles,94.91,Standard,6
+Gold 2,Doubles,89.58,Standard,6
+Gold 3,Doubles,81.3,Standard,6
+Platinum 1,Doubles,70.61,Standard,6
+Platinum 2,Doubles,58.47,Standard,6
+Platinum 3,Doubles,46.68,Standard,6
+Diamond 1,Doubles,36.53,Standard,6
+Diamond 2,Doubles,25.0,Standard,6
+Diamond 3,Doubles,16.73,Standard,6
+Champion 1,Doubles,10.97,Standard,6
+Champion 2,Doubles,5.03,Standard,6
+Champion 3,Doubles,2.23,Standard,6
+Grand Champion 1,Doubles,0.92,Standard,6
+Grand Champion 2,Doubles,0.21,Standard,6
+Grand Champion 3,Doubles,0.05,Standard,6
+Supersonic Legend,Doubles,0.01,Standard,6
+Bronze 1,Rumble,100.01,Extra,6
+Bronze 2,Rumble,99.96,Extra,6
+Bronze 3,Rumble,99.72,Extra,6
+Silver 1,Rumble,99.05,Extra,6
+Silver 2,Rumble,97.58,Extra,6
+Silver 3,Rumble,94.52,Extra,6
+Gold 1,Rumble,89.07,Extra,6
+Gold 2,Rumble,80.24,Extra,6
+Gold 3,Rumble,67.93,Extra,6
+Platinum 1,Rumble,53.41,Extra,6
+Platinum 2,Rumble,38.3,Extra,6
+Platinum 3,Rumble,25.4,Extra,6
+Diamond 1,Rumble,15.87,Extra,6
+Diamond 2,Rumble,9.32,Extra,6
+Diamond 3,Rumble,5.39,Extra,6
+Champion 1,Rumble,3.04,Extra,6
+Champion 2,Rumble,1.63,Extra,6
+Champion 3,Rumble,0.88,Extra,6
+Grand Champion 1,Rumble,0.38,Extra,6
+Grand Champion 2,Rumble,0.12,Extra,6
+Grand Champion 3,Rumble,0.03,Extra,6
+Supersonic Legend,Rumble,0.01,Extra,6
+Bronze 1,Dropshot,99.99,Extra,6
+Bronze 2,Dropshot,99.68,Extra,6
+Bronze 3,Dropshot,98.69,Extra,6
+Silver 1,Dropshot,96.08,Extra,6
+Silver 2,Dropshot,90.42,Extra,6
+Silver 3,Dropshot,82.27,Extra,6
+Gold 1,Dropshot,70.79,Extra,6
+Gold 2,Dropshot,56.81,Extra,6
+Gold 3,Dropshot,42.34,Extra,6
+Platinum 1,Dropshot,29.32,Extra,6
+Platinum 2,Dropshot,18.93,Extra,6
+Platinum 3,Dropshot,11.55,Extra,6
+Diamond 1,Dropshot,6.73,Extra,6
+Diamond 2,Dropshot,3.74,Extra,6
+Diamond 3,Dropshot,2.0,Extra,6
+Champion 1,Dropshot,1.04,Extra,6
+Champion 2,Dropshot,0.52,Extra,6
+Champion 3,Dropshot,0.25,Extra,6
+Grand Champion 1,Dropshot,0.1,Extra,6
+Grand Champion 2,Dropshot,0.03,Extra,6
+Grand Champion 3,Dropshot,0.01,Extra,6
+Supersonic Legend,Dropshot,0.0,Extra,6
+Bronze 1,Hoops,100.0,Extra,6
+Bronze 2,Hoops,99.99,Extra,6
+Bronze 3,Hoops,99.93,Extra,6
+Silver 1,Hoops,99.64,Extra,6
+Silver 2,Hoops,98.81,Extra,6
+Silver 3,Hoops,96.75,Extra,6
+Gold 1,Hoops,92.25,Extra,6
+Gold 2,Hoops,84.24,Extra,6
+Gold 3,Hoops,72.28,Extra,6
+Platinum 1,Hoops,57.67,Extra,6
+Platinum 2,Hoops,42.17,Extra,6
+Platinum 3,Hoops,28.63,Extra,6
+Diamond 1,Hoops,18.32,Extra,6
+Diamond 2,Hoops,11.16,Extra,6
+Diamond 3,Hoops,6.63,Extra,6
+Champion 1,Hoops,3.86,Extra,6
+Champion 2,Hoops,2.18,Extra,6
+Champion 3,Hoops,1.23,Extra,6
+Grand Champion 1,Hoops,0.6,Extra,6
+Grand Champion 2,Hoops,0.21,Extra,6
+Grand Champion 3,Hoops,0.06,Extra,6
+Supersonic Legend,Hoops,0.03,Extra,6
+Bronze 1,Snow Day,100.04,Extra,6
+Bronze 2,Snow Day,99.25,Extra,6
+Bronze 3,Snow Day,97.56,Extra,6
+Silver 1,Snow Day,93.89,Extra,6
+Silver 2,Snow Day,88.32,Extra,6
+Silver 3,Snow Day,79.83,Extra,6
+Gold 1,Snow Day,68.42,Extra,6
+Gold 2,Snow Day,54.98,Extra,6
+Gold 3,Snow Day,41.21,Extra,6
+Platinum 1,Snow Day,28.87,Extra,6
+Platinum 2,Snow Day,18.97,Extra,6
+Platinum 3,Snow Day,11.79,Extra,6
+Diamond 1,Snow Day,6.98,Extra,6
+Diamond 2,Snow Day,3.95,Extra,6
+Diamond 3,Snow Day,2.18,Extra,6
+Champion 1,Snow Day,1.18,Extra,6
+Champion 2,Snow Day,0.61,Extra,6
+Champion 3,Snow Day,0.31,Extra,6
+Grand Champion 1,Snow Day,0.13,Extra,6
+Grand Champion 2,Snow Day,0.04,Extra,6
+Grand Champion 3,Snow Day,0.01,Extra,6
+Supersonic Legend,Snow Day,0.01,Extra,6
+Bronze 1,Solo Duel,100.0,Standard,5
+Bronze 2,Solo Duel,99.94,Standard,5
+Bronze 3,Solo Duel,99.61,Standard,5
+Silver 1,Solo Duel,98.38,Standard,5
+Silver 2,Solo Duel,95.33,Standard,5
+Silver 3,Solo Duel,89.41,Standard,5
+Gold 1,Solo Duel,80.32,Standard,5
+Gold 2,Solo Duel,67.97,Standard,5
+Gold 3,Solo Duel,54.06,Standard,5
+Platinum 1,Solo Duel,40.32,Standard,5
+Platinum 2,Solo Duel,27.16,Standard,5
+Platinum 3,Solo Duel,17.17,Standard,5
+Diamond 1,Solo Duel,10.27,Standard,5
+Diamond 2,Solo Duel,5.7,Standard,5
+Diamond 3,Solo Duel,3.11,Standard,5
+Champion 1,Solo Duel,1.65,Standard,5
+Champion 2,Solo Duel,0.82,Standard,5
+Champion 3,Solo Duel,0.39,Standard,5
+Grand Champion 1,Solo Duel,0.19,Standard,5
+Grand Champion 2,Solo Duel,0.09,Standard,5
+Grand Champion 3,Solo Duel,0.05,Standard,5
+Supersonic Legend,Solo Duel,0.03,Standard,5
+Bronze 1,Standard,100.01,Standard,5
+Bronze 2,Standard,99.85,Standard,5
+Bronze 3,Standard,99.34,Standard,5
+Silver 1,Standard,97.99,Standard,5
+Silver 2,Standard,95.02,Standard,5
+Silver 3,Standard,89.41,Standard,5
+Gold 1,Standard,80.79,Standard,5
+Gold 2,Standard,69.42,Standard,5
+Gold 3,Standard,57.03,Standard,5
+Platinum 1,Standard,45.55,Standard,5
+Platinum 2,Standard,35.09,Standard,5
+Platinum 3,Standard,26.69,Standard,5
+Diamond 1,Standard,20.13,Standard,5
+Diamond 2,Standard,13.26,Standard,5
+Diamond 3,Standard,8.55,Standard,5
+Champion 1,Standard,5.37,Standard,5
+Champion 2,Standard,2.43,Standard,5
+Champion 3,Standard,1.1,Standard,5
+Grand Champion 1,Standard,0.48,Standard,5
+Grand Champion 2,Standard,0.15,Standard,5
+Grand Champion 3,Standard,0.04,Standard,5
+Supersonic Legend,Standard,0.01,Standard,5
+Bronze 1,Doubles,99.99,Standard,5
+Bronze 2,Doubles,99.96,Standard,5
+Bronze 3,Doubles,99.86,Standard,5
+Silver 1,Doubles,99.52,Standard,5
+Silver 2,Doubles,98.59,Standard,5
+Silver 3,Doubles,96.46,Standard,5
+Gold 1,Doubles,92.23,Standard,5
+Gold 2,Doubles,85.03,Standard,5
+Gold 3,Doubles,74.91,Standard,5
+Platinum 1,Doubles,63.19,Standard,5
+Platinum 2,Doubles,51.04,Standard,5
+Platinum 3,Doubles,40.12,Standard,5
+Diamond 1,Doubles,31.2,Standard,5
+Diamond 2,Doubles,21.23,Standard,5
+Diamond 3,Doubles,14.21,Standard,5
+Champion 1,Doubles,9.34,Standard,5
+Champion 2,Doubles,4.27,Standard,5
+Champion 3,Doubles,1.89,Standard,5
+Grand Champion 1,Doubles,0.78,Standard,5
+Grand Champion 2,Doubles,0.18,Standard,5
+Grand Champion 3,Doubles,0.04,Standard,5
+Supersonic Legend,Doubles,0.01,Standard,5
+Bronze 1,Rumble,100.0,Extra,5
+Bronze 2,Rumble,99.93,Extra,5
+Bronze 3,Rumble,99.65,Extra,5
+Silver 1,Rumble,98.89,Extra,5
+Silver 2,Rumble,97.26,Extra,5
+Silver 3,Rumble,93.92,Extra,5
+Gold 1,Rumble,88.06,Extra,5
+Gold 2,Rumble,78.78,Extra,5
+Gold 3,Rumble,66.14,Extra,5
+Platinum 1,Rumble,51.67,Extra,5
+Platinum 2,Rumble,36.82,Extra,5
+Platinum 3,Rumble,24.33,Extra,5
+Diamond 1,Rumble,15.22,Extra,5
+Diamond 2,Rumble,8.9,Extra,5
+Diamond 3,Rumble,5.12,Extra,5
+Champion 1,Rumble,2.89,Extra,5
+Champion 2,Rumble,1.51,Extra,5
+Champion 3,Rumble,0.8,Extra,5
+Grand Champion 1,Rumble,0.35,Extra,5
+Grand Champion 2,Rumble,0.11,Extra,5
+Grand Champion 3,Rumble,0.03,Extra,5
+Supersonic Legend,Rumble,0.01,Extra,5
+Bronze 1,Dropshot,99.98,Extra,5
+Bronze 2,Dropshot,99.74,Extra,5
+Bronze 3,Dropshot,98.97,Extra,5
+Silver 1,Dropshot,96.92,Extra,5
+Silver 2,Dropshot,92.28,Extra,5
+Silver 3,Dropshot,85.37,Extra,5
+Gold 1,Dropshot,75.21,Extra,5
+Gold 2,Dropshot,62.22,Extra,5
+Gold 3,Dropshot,47.93,Extra,5
+Platinum 1,Dropshot,34.35,Extra,5
+Platinum 2,Dropshot,22.88,Extra,5
+Platinum 3,Dropshot,14.33,Extra,5
+Diamond 1,Dropshot,8.49,Extra,5
+Diamond 2,Dropshot,4.79,Extra,5
+Diamond 3,Dropshot,2.56,Extra,5
+Champion 1,Dropshot,1.31,Extra,5
+Champion 2,Dropshot,0.64,Extra,5
+Champion 3,Dropshot,0.3,Extra,5
+Grand Champion 1,Dropshot,0.11,Extra,5
+Grand Champion 2,Dropshot,0.02,Extra,5
+Grand Champion 3,Dropshot,0.0,Extra,5
+Supersonic Legend,Dropshot,0.0,Extra,5
+Bronze 1,Hoops,100.03,Extra,5
+Bronze 2,Hoops,100.01,Extra,5
+Bronze 3,Hoops,99.93,Extra,5
+Silver 1,Hoops,99.58,Extra,5
+Silver 2,Hoops,98.61,Extra,5
+Silver 3,Hoops,96.31,Extra,5
+Gold 1,Hoops,91.47,Extra,5
+Gold 2,Hoops,83.12,Extra,5
+Gold 3,Hoops,71.04,Extra,5
+Platinum 1,Hoops,56.64,Extra,5
+Platinum 2,Hoops,41.46,Extra,5
+Platinum 3,Hoops,28.26,Extra,5
+Diamond 1,Hoops,18.18,Extra,5
+Diamond 2,Hoops,11.08,Extra,5
+Diamond 3,Hoops,6.58,Extra,5
+Champion 1,Hoops,3.83,Extra,5
+Champion 2,Hoops,2.13,Extra,5
+Champion 3,Hoops,1.19,Extra,5
+Grand Champion 1,Hoops,0.59,Extra,5
+Grand Champion 2,Hoops,0.2,Extra,5
+Grand Champion 3,Hoops,0.06,Extra,5
+Supersonic Legend,Hoops,0.03,Extra,5
+Bronze 1,Snow day,100.0,Extra,5
+Bronze 2,Snow day,99.39,Extra,5
+Bronze 3,Snow day,98.07,Extra,5
+Silver 1,Snow day,95.08,Extra,5
+Silver 2,Snow day,90.47,Extra,5
+Silver 3,Snow day,83.25,Extra,5
+Gold 1,Snow day,73.09,Extra,5
+Gold 2,Snow day,60.53,Extra,5
+Gold 3,Snow day,46.93,Extra,5
+Platinum 1,Snow day,33.95,Extra,5
+Platinum 2,Snow day,23.0,Extra,5
+Platinum 3,Snow day,14.67,Extra,5
+Diamond 1,Snow day,8.85,Extra,5
+Diamond 2,Snow day,5.02,Extra,5
+Diamond 3,Snow day,2.76,Extra,5
+Champion 1,Snow day,1.48,Extra,5
+Champion 2,Snow day,0.76,Extra,5
+Champion 3,Snow day,0.37,Extra,5
+Grand Champion 1,Snow day,0.15,Extra,5
+Grand Champion 2,Snow day,0.04,Extra,5
+Grand Champion 3,Snow day,0.01,Extra,5
+Supersonic Legend,Snow day,0.01,Extra,5
+Bronze 1,Solo Duel,100.0,Standard,4
+Bronze 2,Solo Duel,99.94,Standard,4
+Bronze 3,Solo Duel,99.58,Standard,4
+Silver 1,Solo Duel,98.29,Standard,4
+Silver 2,Solo Duel,95.18,Standard,4
+Silver 3,Solo Duel,89.34,Standard,4
+Gold 1,Solo Duel,80.59,Standard,4
+Gold 2,Solo Duel,68.66,Standard,4
+Gold 3,Solo Duel,55.22,Standard,4
+Platinum 1,Solo Duel,41.88,Standard,4
+Platinum 2,Solo Duel,28.68,Standard,4
+Platinum 3,Solo Duel,18.53,Standard,4
+Diamond 1,Solo Duel,11.39,Standard,4
+Diamond 2,Solo Duel,6.43,Standard,4
+Diamond 3,Solo Duel,3.59,Standard,4
+Champion 1,Solo Duel,1.95,Standard,4
+Champion 2,Solo Duel,0.99,Standard,4
+Champion 3,Solo Duel,0.46,Standard,4
+Grand Champion 1,Solo Duel,0.21,Standard,4
+Grand Champion 2,Solo Duel,0.1,Standard,4
+Grand Champion 3,Solo Duel,0.05,Standard,4
+Supersonic Legend,Solo Duel,0.03,Standard,4
+Bronze 1,Standard,100.0,Standard,4
+Bronze 2,Standard,99.82,Standard,4
+Bronze 3,Standard,99.25,Standard,4
+Silver 1,Standard,97.8,Standard,4
+Silver 2,Standard,94.68,Standard,4
+Silver 3,Standard,88.9,Standard,4
+Gold 1,Standard,80.23,Standard,4
+Gold 2,Standard,68.85,Standard,4
+Gold 3,Standard,56.56,Standard,4
+Platinum 1,Standard,45.23,Standard,4
+Platinum 2,Standard,34.78,Standard,4
+Platinum 3,Standard,26.39,Standard,4
+Diamond 1,Standard,19.89,Standard,4
+Diamond 2,Standard,13.05,Standard,4
+Diamond 3,Standard,8.37,Standard,4
+Champion 1,Standard,5.24,Standard,4
+Champion 2,Standard,2.35,Standard,4
+Champion 3,Standard,1.06,Standard,4
+Grand Champion 1,Standard,0.47,Standard,4
+Grand Champion 2,Standard,0.15,Standard,4
+Grand Champion 3,Standard,0.04,Standard,4
+Supersonic Legend,Standard,0.01,Standard,4
+Bronze 1,Doubles,100.0,Standard,4
+Bronze 2,Doubles,99.97,Standard,4
+Bronze 3,Doubles,99.84,Standard,4
+Silver 1,Doubles,99.39,Standard,4
+Silver 2,Doubles,98.14,Standard,4
+Silver 3,Doubles,95.3,Standard,4
+Gold 1,Doubles,89.9,Standard,4
+Gold 2,Doubles,81.32,Standard,4
+Gold 3,Doubles,70.14,Standard,4
+Platinum 1,Doubles,58.24,Standard,4
+Platinum 2,Doubles,46.49,Standard,4
+Platinum 3,Doubles,36.34,Standard,4
+Diamond 1,Doubles,28.22,Standard,4
+Diamond 2,Doubles,19.2,Standard,4
+Diamond 3,Doubles,12.85,Standard,4
+Champion 1,Doubles,8.46,Standard,4
+Champion 2,Doubles,3.87,Standard,4
+Champion 3,Doubles,1.72,Standard,4
+Grand Champion 1,Doubles,0.71,Standard,4
+Grand Champion 2,Doubles,0.16,Standard,4
+Grand Champion 3,Doubles,0.04,Standard,4
+Supersonic Legend,Doubles,0.01,Standard,4
+Bronze 1,Rumble,100.0,Extra,4
+Bronze 2,Rumble,99.92,Extra,4
+Bronze 3,Rumble,99.62,Extra,4
+Silver 1,Rumble,98.81,Extra,4
+Silver 2,Rumble,97.12,Extra,4
+Silver 3,Rumble,93.7,Extra,4
+Gold 1,Rumble,87.8,Extra,4
+Gold 2,Rumble,78.52,Extra,4
+Gold 3,Rumble,66.06,Extra,4
+Platinum 1,Rumble,51.92,Extra,4
+Platinum 2,Rumble,37.3,Extra,4
+Platinum 3,Rumble,24.9,Extra,4
+Diamond 1,Rumble,15.78,Extra,4
+Diamond 2,Rumble,9.28,Extra,4
+Diamond 3,Rumble,5.35,Extra,4
+Champion 1,Rumble,3.04,Extra,4
+Champion 2,Rumble,1.56,Extra,4
+Champion 3,Rumble,0.8,Extra,4
+Grand Champion 1,Rumble,0.35,Extra,4
+Grand Champion 2,Rumble,0.11,Extra,4
+Grand Champion 3,Rumble,0.03,Extra,4
+Supersonic Legend,Rumble,0.01,Extra,4
+Bronze 1,Dropshot,100.0,Extra,4
+Bronze 2,Dropshot,99.83,Extra,4
+Bronze 3,Dropshot,99.28,Extra,4
+Silver 1,Dropshot,97.72,Extra,4
+Silver 2,Dropshot,94.14,Extra,4
+Silver 3,Dropshot,88.58,Extra,4
+Gold 1,Dropshot,80.03,Extra,4
+Gold 2,Dropshot,68.47,Extra,4
+Gold 3,Dropshot,54.88,Extra,4
+Platinum 1,Dropshot,41.05,Extra,4
+Platinum 2,Dropshot,28.47,Extra,4
+Platinum 3,Dropshot,18.51,Extra,4
+Diamond 1,Dropshot,11.31,Extra,4
+Diamond 2,Dropshot,6.51,Extra,4
+Diamond 3,Dropshot,3.56,Extra,4
+Champion 1,Dropshot,1.84,Extra,4
+Champion 2,Dropshot,0.9,Extra,4
+Champion 3,Dropshot,0.42,Extra,4
+Grand Champion 1,Dropshot,0.17,Extra,4
+Grand Champion 2,Dropshot,0.05,Extra,4
+Grand Champion 3,Dropshot,0.01,Extra,4
+Supersonic Legend,Dropshot,0.0,Extra,4
+Bronze 1,Hoops,100.0,Extra,4
+Bronze 2,Hoops,99.98,Extra,4
+Bronze 3,Hoops,99.88,Extra,4
+Silver 1,Hoops,99.46,Extra,4
+Silver 2,Hoops,98.36,Extra,4
+Silver 3,Hoops,95.89,Extra,4
+Gold 1,Hoops,90.87,Extra,4
+Gold 2,Hoops,82.44,Extra,4
+Gold 3,Hoops,70.6,Extra,4
+Platinum 1,Hoops,56.58,Extra,4
+Platinum 2,Hoops,41.78,Extra,4
+Platinum 3,Hoops,28.74,Extra,4
+Diamond 1,Hoops,18.65,Extra,4
+Diamond 2,Hoops,11.38,Extra,4
+Diamond 3,Hoops,6.74,Extra,4
+Champion 1,Hoops,3.87,Extra,4
+Champion 2,Hoops,2.12,Extra,4
+Champion 3,Hoops,1.14,Extra,4
+Grand Champion 1,Hoops,0.56,Extra,4
+Grand Champion 2,Hoops,0.19,Extra,4
+Grand Champion 3,Hoops,0.05,Extra,4
+Supersonic Legend,Hoops,0.03,Extra,4
+Bronze 1,Snow Day,100.0,Extra,4
+Bronze 2,Snow Day,99.55,Extra,4
+Bronze 3,Snow Day,98.53,Extra,4
+Silver 1,Snow Day,96.16,Extra,4
+Silver 2,Snow Day,92.47,Extra,4
+Silver 3,Snow Day,86.47,Extra,4
+Gold 1,Snow Day,77.79,Extra,4
+Gold 2,Snow Day,66.51,Extra,4
+Gold 3,Snow Day,53.58,Extra,4
+Platinum 1,Snow Day,40.37,Extra,4
+Platinum 2,Snow Day,28.35,Extra,4
+Platinum 3,Snow Day,18.83,Extra,4
+Diamond 1,Snow Day,11.69,Extra,4
+Diamond 2,Snow Day,6.8,Extra,4
+Diamond 3,Snow Day,3.76,Extra,4
+Champion 1,Snow Day,2.0,Extra,4
+Champion 2,Snow Day,1.02,Extra,4
+Champion 3,Snow Day,0.52,Extra,4
+Grand Champion 1,Snow Day,0.21,Extra,4
+Grand Champion 2,Snow Day,0.06,Extra,4
+Grand Champion 3,Snow Day,0.01,Extra,4
+Supersonic Legend,Snow Day,0.01,Extra,4
+Bronze 1,Solo Duel,100.0,Standard,3
+Bronze 2,Solo Duel,99.9,Standard,3
+Bronze 3,Solo Duel,99.46,Standard,3
+Silver 1,Solo Duel,97.99,Standard,3
+Silver 2,Solo Duel,94.7,Standard,3
+Silver 3,Solo Duel,88.81,Standard,3
+Gold 1,Solo Duel,80.25,Standard,3
+Gold 2,Solo Duel,68.52,Standard,3
+Gold 3,Solo Duel,55.48,Standard,3
+Platinum 1,Solo Duel,42.66,Standard,3
+Platinum 2,Solo Duel,29.49,Standard,3
+Platinum 3,Solo Duel,19.37,Standard,3
+Diamond 1,Solo Duel,12.26,Standard,3
+Diamond 2,Solo Duel,7.07,Standard,3
+Diamond 3,Solo Duel,4.06,Standard,3
+Champion 1,Solo Duel,2.32,Standard,3
+Champion 2,Solo Duel,1.23,Standard,3
+Champion 3,Solo Duel,0.63,Standard,3
+Grand Champion 1,Solo Duel,0.25,Standard,3
+Grand Champion 2,Solo Duel,0.11,Standard,3
+Grand Champion 3,Solo Duel,0.05,Standard,3
+Supersonic Legend,Solo Duel,0.03,Standard,3
+Bronze 1,Standard,100.0,Standard,3
+Bronze 2,Standard,99.76,Standard,3
+Bronze 3,Standard,99.08,Standard,3
+Silver 1,Standard,97.41,Standard,3
+Silver 2,Standard,93.92,Standard,3
+Silver 3,Standard,87.71,Standard,3
+Gold 1,Standard,78.69,Standard,3
+Gold 2,Standard,67.11,Standard,3
+Gold 3,Standard,54.83,Standard,3
+Platinum 1,Standard,43.71,Standard,3
+Platinum 2,Standard,33.49,Standard,3
+Platinum 3,Standard,25.33,Standard,3
+Diamond 1,Standard,19.13,Standard,3
+Diamond 2,Standard,12.58,Standard,3
+Diamond 3,Standard,8.07,Standard,3
+Champion 1,Standard,5.08,Standard,3
+Champion 2,Standard,2.24,Standard,3
+Champion 3,Standard,0.99,Standard,3
+Grand Champion 1,Standard,0.44,Standard,3
+Grand Champion 2,Standard,0.14,Standard,3
+Grand Champion 3,Standard,0.04,Standard,3
+Supersonic Legend,Standard,0.01,Standard,3
+Bronze 1,Doubles,100.0,Standard,3
+Bronze 2,Doubles,99.91,Standard,3
+Bronze 3,Doubles,99.57,Standard,3
+Silver 1,Doubles,98.55,Standard,3
+Silver 2,Doubles,96.09,Standard,3
+Silver 3,Doubles,91.33,Standard,3
+Gold 1,Doubles,83.69,Standard,3
+Gold 2,Doubles,73.1,Standard,3
+Gold 3,Doubles,61.22,Standard,3
+Platinum 1,Doubles,49.91,Standard,3
+Platinum 2,Doubles,39.27,Standard,3
+Platinum 3,Doubles,30.6,Standard,3
+Diamond 1,Doubles,23.8,Standard,3
+Diamond 2,Doubles,16.24,Standard,3
+Diamond 3,Doubles,10.95,Standard,3
+Champion 1,Doubles,7.33,Standard,3
+Champion 2,Doubles,3.43,Standard,3
+Champion 3,Doubles,1.52,Standard,3
+Grand Champion 1,Doubles,0.66,Standard,3
+Grand Champion 2,Doubles,0.16,Standard,3
+Grand Champion 3,Doubles,0.04,Standard,3
+Supersonic Legend,Doubles,0.01,Standard,3
+Bronze 1,Rumble,100.0,Extra,3
+Bronze 2,Rumble,99.9,Extra,3
+Bronze 3,Rumble,99.56,Extra,3
+Silver 1,Rumble,98.66,Extra,3
+Silver 2,Rumble,96.81,Extra,3
+Silver 3,Rumble,93.14,Extra,3
+Gold 1,Rumble,86.96,Extra,3
+Gold 2,Rumble,77.49,Extra,3
+Gold 3,Rumble,65.06,Extra,3
+Platinum 1,Rumble,51.21,Extra,3
+Platinum 2,Rumble,36.91,Extra,3
+Platinum 3,Rumble,24.78,Extra,3
+Diamond 1,Rumble,15.85,Extra,3
+Diamond 2,Rumble,9.34,Extra,3
+Diamond 3,Rumble,5.37,Extra,3
+Champion 1,Rumble,3.07,Extra,3
+Champion 2,Rumble,1.54,Extra,3
+Champion 3,Rumble,0.76,Extra,3
+Grand Champion 1,Rumble,0.32,Extra,3
+Grand Champion 2,Rumble,0.1,Extra,3
+Grand Champion 3,Rumble,0.03,Extra,3
+Supersonic Legend,Rumble,0.01,Extra,3
+Bronze 1,Dropshot,100.0,Extra,3
+Bronze 2,Dropshot,99.7,Extra,3
+Bronze 3,Dropshot,98.9,Extra,3
+Silver 1,Dropshot,96.9,Extra,3
+Silver 2,Dropshot,93.5,Extra,3
+Silver 3,Dropshot,87.73,Extra,3
+Gold 1,Dropshot,79.15,Extra,3
+Gold 2,Dropshot,67.75,Extra,3
+Gold 3,Dropshot,54.59,Extra,3
+Platinum 1,Dropshot,41.12,Extra,3
+Platinum 2,Dropshot,28.8,Extra,3
+Platinum 3,Dropshot,18.89,Extra,3
+Diamond 1,Dropshot,11.63,Extra,3
+Diamond 2,Dropshot,6.66,Extra,3
+Diamond 3,Dropshot,3.64,Extra,3
+Champion 1,Dropshot,1.87,Extra,3
+Champion 2,Dropshot,0.87,Extra,3
+Champion 3,Dropshot,0.39,Extra,3
+Grand Champion 1,Dropshot,0.16,Extra,3
+Grand Champion 2,Dropshot,0.04,Extra,3
+Grand Champion 3,Dropshot,0.01,Extra,3
+Supersonic Legend,Dropshot,0.0,Extra,3
+Bronze 1,Hoops,100.0,Extra,3
+Bronze 2,Hoops,99.97,Extra,3
+Bronze 3,Hoops,99.84,Extra,3
+Silver 1,Hoops,99.34,Extra,3
+Silver 2,Hoops,98.1,Extra,3
+Silver 3,Hoops,95.43,Extra,3
+Gold 1,Hoops,90.26,Extra,3
+Gold 2,Hoops,81.83,Extra,3
+Gold 3,Hoops,70.25,Extra,3
+Platinum 1,Hoops,56.72,Extra,3
+Platinum 2,Hoops,42.19,Extra,3
+Platinum 3,Hoops,29.27,Extra,3
+Diamond 1,Hoops,19.15,Extra,3
+Diamond 2,Hoops,11.7,Extra,3
+Diamond 3,Hoops,6.89,Extra,3
+Champion 1,Hoops,3.93,Extra,3
+Champion 2,Hoops,2.11,Extra,3
+Champion 3,Hoops,1.08,Extra,3
+Grand Champion 1,Hoops,0.54,Extra,3
+Grand Champion 2,Hoops,0.18,Extra,3
+Grand Champion 3,Hoops,0.06,Extra,3
+Supersonic Legend,Hoops,0.03,Extra,3
+Bronze 1,Snow Day,100.0,Extra,3
+Bronze 2,Snow Day,99.68,Extra,3
+Bronze 3,Snow Day,98.93,Extra,3
+Silver 1,Snow Day,97.15,Extra,3
+Silver 2,Snow Day,94.26,Extra,3
+Silver 3,Snow Day,89.5,Extra,3
+Gold 1,Snow Day,82.37,Extra,3
+Gold 2,Snow Day,72.66,Extra,3
+Gold 3,Snow Day,60.96,Extra,3
+Platinum 1,Snow Day,48.23,Extra,3
+Platinum 2,Snow Day,35.6,Extra,3
+Platinum 3,Snow Day,24.71,Extra,3
+Diamond 1,Snow Day,16.28,Extra,3
+Diamond 2,Snow Day,9.83,Extra,3
+Diamond 3,Snow Day,5.65,Extra,3
+Champion 1,Snow Day,3.04,Extra,3
+Champion 2,Snow Day,1.54,Extra,3
+Champion 3,Snow Day,0.75,Extra,3
+Grand Champion 1,Snow Day,0.35,Extra,3
+Grand Champion 2,Snow Day,0.1,Extra,3
+Grand Champion 3,Snow Day,0.03,Extra,3
+Supersonic Legend,Snow Day,0.02,Extra,3
+Bronze 1,Solo Duel,100.0,Standard,2
+Bronze 2,Solo Duel,99.95,Standard,2
+Bronze 3,Solo Duel,99.72,Standard,2
+Silver 1,Solo Duel,98.81,Standard,2
+Silver 2,Solo Duel,96.55,Standard,2
+Silver 3,Solo Duel,92.23,Standard,2
+Gold 1,Solo Duel,85.58,Standard,2
+Gold 2,Solo Duel,75.0,Standard,2
+Gold 3,Solo Duel,62.72,Standard,2
+Platinum 1,Solo Duel,50.51,Standard,2
+Platinum 2,Solo Duel,35.23,Standard,2
+Platinum 3,Solo Duel,23.63,Standard,2
+Diamond 1,Solo Duel,15.65,Standard,2
+Diamond 2,Solo Duel,8.93,Standard,2
+Diamond 3,Solo Duel,5.22,Standard,2
+Champion 1,Solo Duel,3.19,Standard,2
+Champion 2,Solo Duel,1.78,Standard,2
+Champion 3,Solo Duel,1.0,Standard,2
+Grand Champion 1,Solo Duel,0.55,Standard,2
+Grand Champion 2,Solo Duel,0.22,Standard,2
+Grand Champion 3,Solo Duel,0.1,Standard,2
+Supersonic Legend,Solo Duel,0.05,Standard,2
+Bronze 1,Standard,100.0,Standard,2
+Bronze 2,Standard,99.68,Standard,2
+Bronze 3,Standard,98.92,Standard,2
+Silver 1,Standard,97.28,Standard,2
+Silver 2,Standard,93.77,Standard,2
+Silver 3,Standard,87.9,Standard,2
+Gold 1,Standard,79.64,Standard,2
+Gold 2,Standard,68.46,Standard,2
+Gold 3,Standard,56.67,Standard,2
+Platinum 1,Standard,42.54,Standard,2
+Platinum 2,Standard,29.17,Standard,2
+Platinum 3,Standard,19.87,Standard,2
+Diamond 1,Standard,13.59,Standard,2
+Diamond 2,Standard,7.65,Standard,2
+Diamond 3,Standard,4.23,Standard,2
+Champion 1,Standard,2.4,Standard,2
+Champion 2,Standard,1.27,Standard,2
+Champion 3,Standard,0.66,Standard,2
+Grand Champion 1,Standard,0.35,Standard,2
+Grand Champion 2,Standard,0.13,Standard,2
+Grand Champion 3,Standard,0.05,Standard,2
+Supersonic Legend,Standard,0.02,Standard,2
+Bronze 1,Doubles,100.0,Standard,2
+Bronze 2,Doubles,99.63,Standard,2
+Bronze 3,Doubles,98.67,Standard,2
+Silver 1,Doubles,96.54,Standard,2
+Silver 2,Doubles,92.31,Standard,2
+Silver 3,Doubles,85.69,Standard,2
+Gold 1,Doubles,77.03,Standard,2
+Gold 2,Doubles,66.08,Standard,2
+Gold 3,Doubles,55.22,Standard,2
+Platinum 1,Doubles,42.52,Standard,2
+Platinum 2,Doubles,30.31,Standard,2
+Platinum 3,Doubles,21.62,Standard,2
+Diamond 1,Doubles,15.53,Standard,2
+Diamond 2,Doubles,10.37,Standard,2
+Diamond 3,Doubles,6.32,Standard,2
+Champion 1,Doubles,3.85,Standard,2
+Champion 2,Doubles,2.1,Standard,2
+Champion 3,Doubles,1.12,Standard,2
+Grand Champion 1,Doubles,0.6,Standard,2
+Grand Champion 2,Doubles,0.19,Standard,2
+Grand Champion 3,Doubles,0.06,Standard,2
+Supersonic Legend,Doubles,0.03,Standard,2
+Bronze 1,Rumble,100.0,Extra,2
+Bronze 2,Rumble,99.92,Extra,2
+Bronze 3,Rumble,99.67,Extra,2
+Silver 1,Rumble,98.97,Extra,2
+Silver 2,Rumble,97.51,Extra,2
+Silver 3,Rumble,94.52,Extra,2
+Gold 1,Rumble,89.35,Extra,2
+Gold 2,Rumble,81.04,Extra,2
+Gold 3,Rumble,69.72,Extra,2
+Platinum 1,Rumble,56.74,Extra,2
+Platinum 2,Rumble,42.12,Extra,2
+Platinum 3,Rumble,29.13,Extra,2
+Diamond 1,Rumble,19.41,Extra,2
+Diamond 2,Rumble,11.6,Extra,2
+Diamond 3,Rumble,6.71,Extra,2
+Champion 1,Rumble,3.34,Extra,2
+Champion 2,Rumble,1.32,Extra,2
+Champion 3,Rumble,0.5,Extra,2
+Grand Champion 1,Rumble,0.2,Extra,2
+Grand Champion 2,Rumble,0.04,Extra,2
+Grand Champion 3,Rumble,0.01,Extra,2
+Supersonic Legend,Rumble,0.0,Extra,2
+Bronze 1,Dropshot,100.0,Extra,2
+Bronze 2,Dropshot,100.0,Extra,2
+Bronze 3,Dropshot,99.94,Extra,2
+Silver 1,Dropshot,99.76,Extra,2
+Silver 2,Dropshot,99.16,Extra,2
+Silver 3,Dropshot,97.63,Extra,2
+Gold 1,Dropshot,94.33,Extra,2
+Gold 2,Dropshot,87.92,Extra,2
+Gold 3,Dropshot,77.8,Extra,2
+Platinum 1,Dropshot,64.3,Extra,2
+Platinum 2,Dropshot,48.01,Extra,2
+Platinum 3,Dropshot,32.64,Extra,2
+Diamond 1,Dropshot,20.34,Extra,2
+Diamond 2,Dropshot,11.25,Extra,2
+Diamond 3,Dropshot,5.74,Extra,2
+Champion 1,Dropshot,2.78,Extra,2
+Champion 2,Dropshot,1.18,Extra,2
+Champion 3,Dropshot,0.45,Extra,2
+Grand Champion 1,Dropshot,0.18,Extra,2
+Grand Champion 2,Dropshot,0.04,Extra,2
+Grand Champion 3,Dropshot,0.01,Extra,2
+Supersonic Legend,Dropshot,0.0,Extra,2
+Bronze 1,Hoops,100.0,Extra,2
+Bronze 2,Hoops,99.99,Extra,2
+Bronze 3,Hoops,99.96,Extra,2
+Silver 1,Hoops,99.82,Extra,2
+Silver 2,Hoops,99.35,Extra,2
+Silver 3,Hoops,97.86,Extra,2
+Gold 1,Hoops,94.27,Extra,2
+Gold 2,Hoops,86.96,Extra,2
+Gold 3,Hoops,75.23,Extra,2
+Platinum 1,Hoops,60.23,Extra,2
+Platinum 2,Hoops,42.75,Extra,2
+Platinum 3,Hoops,27.35,Extra,2
+Diamond 1,Hoops,16.05,Extra,2
+Diamond 2,Hoops,8.47,Extra,2
+Diamond 3,Hoops,4.26,Extra,2
+Champion 1,Hoops,2.08,Extra,2
+Champion 2,Hoops,0.94,Extra,2
+Champion 3,Hoops,0.41,Extra,2
+Grand Champion 1,Hoops,0.19,Extra,2
+Grand Champion 2,Hoops,0.05,Extra,2
+Grand Champion 3,Hoops,0.02,Extra,2
+Supersonic Legend,Hoops,0.01,Extra,2
+Bronze 1,Snow Day,100.0,Extra,2
+Bronze 2,Snow Day,99.97,Extra,2
+Bronze 3,Snow Day,99.82,Extra,2
+Silver 1,Snow Day,99.41,Extra,2
+Silver 2,Snow Day,98.4,Extra,2
+Silver 3,Snow Day,96.14,Extra,2
+Gold 1,Snow Day,91.89,Extra,2
+Gold 2,Snow Day,84.56,Extra,2
+Gold 3,Snow Day,73.85,Extra,2
+Platinum 1,Snow Day,60.69,Extra,2
+Platinum 2,Snow Day,45.13,Extra,2
+Platinum 3,Snow Day,30.85,Extra,2
+Diamond 1,Snow Day,19.69,Extra,2
+Diamond 2,Snow Day,11.09,Extra,2
+Diamond 3,Snow Day,5.77,Extra,2
+Champion 1,Snow Day,2.84,Extra,2
+Champion 2,Snow Day,1.2,Extra,2
+Champion 3,Snow Day,0.48,Extra,2
+Grand Champion 1,Snow Day,0.22,Extra,2
+Grand Champion 2,Snow Day,0.05,Extra,2
+Grand Champion 3,Snow Day,0.02,Extra,2
+Supersonic Legend,Snow Day,0.01,Extra,2
+Bronze 1,Solo Duel,100.02,Standard,1
+Bronze 2,Solo Duel,99.93,Standard,1
+Bronze 3,Solo Duel,99.54,Standard,1
+Silver 1,Solo Duel,98.1,Standard,1
+Silver 2,Solo Duel,94.43,Standard,1
+Silver 3,Solo Duel,87.33,Standard,1
+Gold 1,Solo Duel,76.76,Standard,1
+Gold 2,Solo Duel,62.2,Standard,1
+Gold 3,Solo Duel,46.97,Standard,1
+Platinum 1,Solo Duel,33.55,Standard,1
+Platinum 2,Solo Duel,21.63,Standard,1
+Platinum 3,Solo Duel,14.04,Standard,1
+Diamond 1,Solo Duel,9.1,Standard,1
+Diamond 2,Solo Duel,5.74,Standard,1
+Diamond 3,Solo Duel,3.65,Standard,1
+Champion 1,Solo Duel,2.29,Standard,1
+Champion 2,Solo Duel,1.39,Standard,1
+Champion 3,Solo Duel,0.81,Standard,1
+Grand Champion 1,Solo Duel,0.4,Standard,1
+Grand Champion 2,Solo Duel,0.09,Standard,1
+Grand Champion 3,Solo Duel,0.04,Standard,1
+Supersonic Legend,Solo Duel,0.02,Standard,1
+Bronze 1,Standard,100.02,Standard,1
+Bronze 2,Standard,99.73,Standard,1
+Bronze 3,Standard,98.88,Standard,1
+Silver 1,Standard,96.89,Standard,1
+Silver 2,Standard,92.65,Standard,1
+Silver 3,Standard,85.53,Standard,1
+Gold 1,Standard,75.64,Standard,1
+Gold 2,Standard,63.38,Standard,1
+Gold 3,Standard,50.9,Standard,1
+Platinum 1,Standard,36.79,Standard,1
+Platinum 2,Standard,24.97,Standard,1
+Platinum 3,Standard,17.06,Standard,1
+Diamond 1,Standard,11.76,Standard,1
+Diamond 2,Standard,6.96,Standard,1
+Diamond 3,Standard,3.81,Standard,1
+Champion 1,Standard,2.0,Standard,1
+Champion 2,Standard,0.97,Standard,1
+Champion 3,Standard,0.45,Standard,1
+Grand Champion 1,Standard,0.18,Standard,1
+Grand Champion 2,Standard,0.06,Standard,1
+Grand Champion 3,Standard,0.02,Standard,1
+Supersonic Legend,Standard,0.01,Standard,1
+Bronze 1,Doubles,99.99,Standard,1
+Bronze 2,Doubles,99.12,Standard,1
+Bronze 3,Doubles,97.04,Standard,1
+Silver 1,Doubles,92.74,Standard,1
+Silver 2,Doubles,85.36,Standard,1
+Silver 3,Doubles,75.25,Standard,1
+Gold 1,Doubles,63.68,Standard,1
+Gold 2,Doubles,51.52,Standard,1
+Gold 3,Doubles,40.84,Standard,1
+Platinum 1,Doubles,30.04,Standard,1
+Platinum 2,Doubles,21.55,Standard,1
+Platinum 3,Doubles,15.78,Standard,1
+Diamond 1,Doubles,11.69,Standard,1
+Diamond 2,Doubles,8.34,Standard,1
+Diamond 3,Doubles,5.35,Standard,1
+Champion 1,Doubles,3.24,Standard,1
+Champion 2,Doubles,1.76,Standard,1
+Champion 3,Doubles,0.87,Standard,1
+Grand Champion 1,Doubles,0.4,Standard,1
+Grand Champion 2,Doubles,0.1,Standard,1
+Grand Champion 3,Doubles,0.03,Standard,1
+Supersonic Legend,Doubles,0.01,Standard,1
+Bronze 1,Rumble,99.99,Extra,1
+Bronze 2,Rumble,99.92,Extra,1
+Bronze 3,Rumble,99.65,Extra,1
+Silver 1,Rumble,98.87,Extra,1
+Silver 2,Rumble,97.2,Extra,1
+Silver 3,Rumble,93.82,Extra,1
+Gold 1,Rumble,88.07,Extra,1
+Gold 2,Rumble,79.38,Extra,1
+Gold 3,Rumble,67.94,Extra,1
+Platinum 1,Rumble,55.09,Extra,1
+Platinum 2,Rumble,41.3,Extra,1
+Platinum 3,Rumble,28.93,Extra,1
+Diamond 1,Rumble,19.34,Extra,1
+Diamond 2,Rumble,11.86,Extra,1
+Diamond 3,Rumble,7.06,Extra,1
+Champion 1,Rumble,4.23,Extra,1
+Champion 2,Rumble,2.27,Extra,1
+Champion 3,Rumble,1.12,Extra,1
+Grand Champion 1,Rumble,0.54,Extra,1
+Grand Champion 2,Rumble,0.19,Extra,1
+Grand Champion 3,Rumble,0.07,Extra,1
+Supersonic Legend,Rumble,0.04,Extra,1
+Bronze 1,Dropshot,100.0,Extra,1
+Bronze 2,Dropshot,100.0,Extra,1
+Bronze 3,Dropshot,99.97,Extra,1
+Silver 1,Dropshot,99.84,Extra,1
+Silver 2,Dropshot,99.37,Extra,1
+Silver 3,Dropshot,98.12,Extra,1
+Gold 1,Dropshot,95.37,Extra,1
+Gold 2,Dropshot,90.0,Extra,1
+Gold 3,Dropshot,81.33,Extra,1
+Platinum 1,Dropshot,69.51,Extra,1
+Platinum 2,Dropshot,54.65,Extra,1
+Platinum 3,Dropshot,39.5,Extra,1
+Diamond 1,Dropshot,26.43,Extra,1
+Diamond 2,Dropshot,15.91,Extra,1
+Diamond 3,Dropshot,8.82,Extra,1
+Champion 1,Dropshot,4.58,Extra,1
+Champion 2,Dropshot,2.13,Extra,1
+Champion 3,Dropshot,0.86,Extra,1
+Grand Champion 1,Dropshot,0.28,Extra,1
+Grand Champion 2,Dropshot,0.06,Extra,1
+Grand Champion 3,Dropshot,0.01,Extra,1
+Supersonic Legend,Dropshot,0.0,Extra,1
+Bronze 1,Hoops,100.01,Extra,1
+Bronze 2,Hoops,100.01,Extra,1
+Bronze 3,Hoops,99.98,Extra,1
+Silver 1,Hoops,99.82,Extra,1
+Silver 2,Hoops,99.19,Extra,1
+Silver 3,Hoops,97.24,Extra,1
+Gold 1,Hoops,92.9,Extra,1
+Gold 2,Hoops,84.9,Extra,1
+Gold 3,Hoops,73.12,Extra,1
+Platinum 1,Hoops,58.61,Extra,1
+Platinum 2,Hoops,42.35,Extra,1
+Platinum 3,Hoops,27.89,Extra,1
+Diamond 1,Hoops,16.99,Extra,1
+Diamond 2,Hoops,9.6,Extra,1
+Diamond 3,Hoops,5.26,Extra,1
+Champion 1,Hoops,2.76,Extra,1
+Champion 2,Hoops,1.32,Extra,1
+Champion 3,Hoops,0.51,Extra,1
+Grand Champion 1,Hoops,0.21,Extra,1
+Grand Champion 2,Hoops,0.05,Extra,1
+Grand Champion 3,Hoops,0.02,Extra,1
+Supersonic Legend,Hoops,0.01,Extra,1
+Bronze 1,Snow Day,100.0,Extra,1
+Bronze 2,Snow Day,99.97,Extra,1
+Bronze 3,Snow Day,99.83,Extra,1
+Silver 1,Snow Day,99.43,Extra,1
+Silver 2,Snow Day,98.41,Extra,1
+Silver 3,Snow Day,96.25,Extra,1
+Gold 1,Snow Day,92.34,Extra,1
+Gold 2,Snow Day,85.83,Extra,1
+Gold 3,Snow Day,76.34,Extra,1
+Platinum 1,Snow Day,64.5,Extra,1
+Platinum 2,Snow Day,50.52,Extra,1
+Platinum 3,Snow Day,36.9,Extra,1
+Diamond 1,Snow Day,25.1,Extra,1
+Diamond 2,Snow Day,15.5,Extra,1
+Diamond 3,Snow Day,8.83,Extra,1
+Champion 1,Snow Day,4.7,Extra,1
+Champion 2,Snow Day,2.11,Extra,1
+Champion 3,Snow Day,0.76,Extra,1
+Grand Champion 1,Snow Day,0.29,Extra,1
+Grand Champion 2,Snow Day,0.06,Extra,1
+Grand Champion 3,Snow Day,0.02,Extra,1
+Supersonic Legend,Snow Day,0.01,Extra,1
